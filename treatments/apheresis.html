@@ -42,7 +42,10 @@
 <div class="topbar">
   <div class="wrap-wide">
     <a class="brand plain" href="../index.html"><span class="dot"></span>掌蹠膿疱症.com</a>
-    <nav class="topnav">
+    <button type="button" class="menu-toggle" id="menu-toggle" aria-expanded="false" aria-controls="site-nav" aria-label="メニューを開く">
+      <span class="menu-toggle-bar"></span><span class="menu-toggle-bar"></span><span class="menu-toggle-bar"></span>
+    </button>
+    <nav class="topnav" id="site-nav">
       <a href="../index.html">はじめに</a>
       <a class="cta" href="../timeline.html">何年で治る？</a>
       <a class="cta cta-quiz" href="../quiz.html">クイズに挑戦</a>
@@ -50,6 +53,23 @@
     </nav>
   </div>
 </div>
+<script>
+(function () {
+  var btn = document.getElementById("menu-toggle");
+  var nav = document.getElementById("site-nav");
+  if (!btn || !nav) return;
+  btn.addEventListener("click", function () {
+    var open = nav.classList.toggle("open");
+    btn.setAttribute("aria-expanded", open ? "true" : "false");
+  });
+  Array.prototype.forEach.call(nav.querySelectorAll("a"), function (a) {
+    a.addEventListener("click", function () {
+      nav.classList.remove("open");
+      btn.setAttribute("aria-expanded", "false");
+    });
+  });
+})();
+</script>
 
 <div class="wrap-wide"><div class="breadcrumb">
       <a href="../index.html">掌蹠膿疱症.com</a> /
@@ -93,15 +113,36 @@
     <p>掌蹠膿疱症.com — 掌蹠膿疱症の治療法について、個人の記録と公開資料をもとに整理したサイトです。診断・治療方針は専門医にご相談ください。</p>
     <p class="credit-line">企画・編集・デザイン・作成：<a href="../about.html" class="plain" style="border-bottom:2px solid var(--line)">宮崎直哉</a> ／ 最終更新：2026-09-20</p>
     <p class="today-line">本日：<span id="today-date">—</span></p>
+    <p class="view-counter"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fshousekinouhoushou.com%2Ftreatments%2Fapheresis.html&label=このページの閲覧数&labelColor=%23151515&countColor=%232E6DB4&style=flat-square" alt="このページの閲覧数" loading="lazy" style="height:20px;width:auto;vertical-align:middle;"></p>
   </div>
 </footer>
 <script>
 (function () {
   var el = document.getElementById("today-date");
-  if (!el) return;
-  var d = new Date();
-  var f = new Intl.DateTimeFormat("ja-JP", { year: "numeric", month: "long", day: "numeric", weekday: "short" });
-  el.textContent = f.format(d);
+  if (el) {
+    var d = new Date();
+    var f = new Intl.DateTimeFormat("ja-JP", { year: "numeric", month: "long", day: "numeric", weekday: "short" });
+    el.textContent = f.format(d);
+  }
+})();
+(function () {
+  // サイト共通の「一度だけ、そっと現れる」演出：takeawayボックスにのみ適用する。
+  var reduceMotion = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+  var targets = document.querySelectorAll(".takeaway");
+  if (!targets.length) return;
+  if (reduceMotion || !("IntersectionObserver" in window)) {
+    targets.forEach(function (t) { t.classList.add("in-view"); });
+    return;
+  }
+  var io = new IntersectionObserver(function (entries) {
+    entries.forEach(function (entry) {
+      if (entry.isIntersecting) {
+        entry.target.classList.add("in-view");
+        io.unobserve(entry.target);
+      }
+    });
+  }, { threshold: 0.2 });
+  targets.forEach(function (t) { io.observe(t); });
 })();
 </script>
 

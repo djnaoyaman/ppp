@@ -42,7 +42,10 @@
 <div class="topbar">
   <div class="wrap-wide">
     <a class="brand plain" href="../index.html"><span class="dot"></span>掌蹠膿疱症.com</a>
-    <nav class="topnav">
+    <button type="button" class="menu-toggle" id="menu-toggle" aria-expanded="false" aria-controls="site-nav" aria-label="メニューを開く">
+      <span class="menu-toggle-bar"></span><span class="menu-toggle-bar"></span><span class="menu-toggle-bar"></span>
+    </button>
+    <nav class="topnav" id="site-nav">
       <a href="../index.html">はじめに</a>
       <a class="cta" href="../timeline.html">何年で治る？</a>
       <a class="cta cta-quiz" href="../quiz.html">クイズに挑戦</a>
@@ -50,6 +53,23 @@
     </nav>
   </div>
 </div>
+<script>
+(function () {
+  var btn = document.getElementById("menu-toggle");
+  var nav = document.getElementById("site-nav");
+  if (!btn || !nav) return;
+  btn.addEventListener("click", function () {
+    var open = nav.classList.toggle("open");
+    btn.setAttribute("aria-expanded", open ? "true" : "false");
+  });
+  Array.prototype.forEach.call(nav.querySelectorAll("a"), function (a) {
+    a.addEventListener("click", function () {
+      nav.classList.remove("open");
+      btn.setAttribute("aria-expanded", "false");
+    });
+  });
+})();
+</script>
 
 <div class="wrap-wide"><div class="breadcrumb">
       <a href="../index.html">掌蹠膿疱症.com</a> /
@@ -77,7 +97,7 @@
           <p>メカニズムとしては、ニコチンが好中球の働きに影響し、皮膚の炎症を助長する経路が想定されているが、「なぜタバコがこの病気だけをこんなに悪化させるのか」という部分は、まだ完全には解明されていない。歯周炎の悪化因子でもあるという点で、次項の病巣感染治療とも地続きになっている。</p>
 <div class="chart-block">
       <div class="chart-caption">掌蹠膿疱症患者の喫煙率は、日本の成人全体の喫煙率よりはっきり高い。</div>
-      <svg viewBox="0 0 560 136" width="100%" height="136" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="データチャート"><rect x="0" y="0" width="560" height="136" fill="none"/><text x="4" y="18" font-family="Zen Kaku Gothic New, sans-serif" font-size="14" font-weight="700" fill="#151515">掌蹠膿疱症患者</text><rect x="4" y="28" width="420" height="16" fill="#FFFFFF" stroke="#151515" stroke-width="2.4"/><rect x="298.0" y="28" width="84.0" height="16" fill="#2E6DB4" stroke="#151515" stroke-width="2.4"/><text x="434" y="41" font-family="Zen Kaku Gothic New, sans-serif" font-size="13" fill="#6B6B66">70〜90%</text><text x="4" y="76" font-family="Zen Kaku Gothic New, sans-serif" font-size="14" font-weight="700" fill="#151515">日本の成人全体（参考・2024年）</text><rect x="4" y="86" width="420" height="16" fill="#FFFFFF" stroke="#151515" stroke-width="2.4"/><rect x="4" y="86" width="62.2" height="16" fill="#B8860B" stroke="#151515" stroke-width="2.4"/><text x="434" y="99" font-family="Zen Kaku Gothic New, sans-serif" font-size="13" fill="#6B6B66">14.8%</text><text x="4" y="116" font-family="Zen Kaku Gothic New, sans-serif" font-size="11.5" fill="#6B6B66">厚生労働省「国民健康・栄養調査」</text></svg>
+      <svg viewBox="0 0 560 136" width="100%" height="136" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="データチャート"><rect x="0" y="0" width="560" height="136" fill="none"/><text x="4" y="18" font-family="Zen Kaku Gothic New, sans-serif" font-size="14" font-weight="700" fill="#151515">掌蹠膿疱症患者</text><rect x="4" y="28" width="420" height="16" fill="#FFFFFF" stroke="#151515" stroke-width="2.4"/><rect x="298.0" y="28" width="84.0" height="16" fill="#2E6DB4" stroke="#151515" stroke-width="2.4"><animate attributeName="width" from="0" to="84.0" dur="0.9s" begin="0.15s" fill="freeze"/></rect><text x="434" y="41" font-family="Zen Kaku Gothic New, sans-serif" font-size="13" fill="#6B6B66">70〜90%</text><text x="4" y="76" font-family="Zen Kaku Gothic New, sans-serif" font-size="14" font-weight="700" fill="#151515">日本の成人全体（参考・2024年）</text><rect x="4" y="86" width="420" height="16" fill="#FFFFFF" stroke="#151515" stroke-width="2.4"/><rect x="4" y="86" width="62.2" height="16" fill="#B8860B" stroke="#151515" stroke-width="2.4"><animate attributeName="width" from="0" to="62.2" dur="0.9s" begin="0.15s" fill="freeze"/></rect><text x="434" y="99" font-family="Zen Kaku Gothic New, sans-serif" font-size="13" fill="#6B6B66">14.8%</text><text x="4" y="116" font-family="Zen Kaku Gothic New, sans-serif" font-size="11.5" fill="#6B6B66">厚生労働省「国民健康・栄養調査」</text></svg>
     </div>
 <div class="takeaway">禁煙は治療というより、他の治療の効きを底上げする土台づくりだと捉えている。</div>
 <div class="refs"><span class="refs-label">参考にした資料</span><ol>
@@ -99,15 +119,36 @@
     <p>掌蹠膿疱症.com — 掌蹠膿疱症の治療法について、個人の記録と公開資料をもとに整理したサイトです。診断・治療方針は専門医にご相談ください。</p>
     <p class="credit-line">企画・編集・デザイン・作成：<a href="../about.html" class="plain" style="border-bottom:2px solid var(--line)">宮崎直哉</a> ／ 最終更新：2026-09-20</p>
     <p class="today-line">本日：<span id="today-date">—</span></p>
+    <p class="view-counter"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fshousekinouhoushou.com%2Ftreatments%2Fsmoking-cessation.html&label=このページの閲覧数&labelColor=%23151515&countColor=%232E6DB4&style=flat-square" alt="このページの閲覧数" loading="lazy" style="height:20px;width:auto;vertical-align:middle;"></p>
   </div>
 </footer>
 <script>
 (function () {
   var el = document.getElementById("today-date");
-  if (!el) return;
-  var d = new Date();
-  var f = new Intl.DateTimeFormat("ja-JP", { year: "numeric", month: "long", day: "numeric", weekday: "short" });
-  el.textContent = f.format(d);
+  if (el) {
+    var d = new Date();
+    var f = new Intl.DateTimeFormat("ja-JP", { year: "numeric", month: "long", day: "numeric", weekday: "short" });
+    el.textContent = f.format(d);
+  }
+})();
+(function () {
+  // サイト共通の「一度だけ、そっと現れる」演出：takeawayボックスにのみ適用する。
+  var reduceMotion = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+  var targets = document.querySelectorAll(".takeaway");
+  if (!targets.length) return;
+  if (reduceMotion || !("IntersectionObserver" in window)) {
+    targets.forEach(function (t) { t.classList.add("in-view"); });
+    return;
+  }
+  var io = new IntersectionObserver(function (entries) {
+    entries.forEach(function (entry) {
+      if (entry.isIntersecting) {
+        entry.target.classList.add("in-view");
+        io.unobserve(entry.target);
+      }
+    });
+  }, { threshold: 0.2 });
+  targets.forEach(function (t) { io.observe(t); });
 })();
 </script>
 
