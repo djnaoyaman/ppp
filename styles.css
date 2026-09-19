@@ -151,6 +151,8 @@ h2.section-title{font-size:1.2rem;margin:0 0 24px;}
   border-left:4px solid var(--cat-color);padding-left:18px;margin:0 0 36px;max-width:600px;
 }
 .chart-block{margin:32px 0;padding:22px;border-top:4px solid var(--ink);background:var(--paper-deep);}
+.diagram-block{margin:32px 0;padding:20px 12px;border:1px solid var(--line);display:flex;justify-content:center;}
+.diagram-block svg{max-width:340px;}
 .chart-block .chart-caption{font-size:.86rem;font-weight:700;margin-bottom:14px;}
 .takeaway{
   margin:36px 0 0;padding:20px 22px;background:var(--cat-soft);border-left:4px solid var(--cat-color);font-size:1rem;
