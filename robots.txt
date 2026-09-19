@@ -28,4 +28,4 @@ Allow: /
 User-agent: Applebot-Extended
 Allow: /
 
-Sitemap: https://shousekinouhoushou.com/sitemap.xml
+Sitemap: https://djnaoyaman.github.io/shousekinouhousou/sitemap.xml
