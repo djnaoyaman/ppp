@@ -5,60 +5,60 @@
 企画・編集・デザイン・作成：宮崎直哉。研究者ではなく経験者としての記録であり、医学的アドバイスの代替にはならない。掲載情報は日本皮膚科学会の資料や各種文献を参照して要約したもの。詳しい出典は各ページ末尾に記載。
 
 ## 主要ページ
-- [掌蹠膿疱症.comのトップページ](https://shousekinouhoushou.com/index.html): サイトの方針と治療の優先順位の考え方
-- [掌蹠膿疱症は何年で治る？経過の見方](https://shousekinouhoushou.com/timeline.html): 平均3〜7年とされる経過の見方、著者自身の4か月の経過、よくある質問
-- [掌蹠膿疱症クイズ](https://shousekinouhoushou.com/quiz.html): 症状・悪化因子・治療法についての20問クイズ、解説と間違いノートつき
-- [このサイトについて](https://shousekinouhoushou.com/about.html): 運営者プロフィール
+- [掌蹠膿疱症.comのトップページ](https://djnaoyaman.github.io/shousekinouhousou/index.html): サイトの方針と治療の優先順位の考え方
+- [掌蹠膿疱症は何年で治る？経過の見方](https://djnaoyaman.github.io/shousekinouhousou/timeline.html): 平均3〜7年とされる経過の見方、著者自身の4か月の経過、よくある質問
+- [掌蹠膿疱症クイズ](https://djnaoyaman.github.io/shousekinouhousou/quiz.html): 症状・悪化因子・治療法についての20問クイズ、解説と間違いノートつき
+- [このサイトについて](https://djnaoyaman.github.io/shousekinouhousou/about.html): 運営者プロフィール
 
 ## 01 増悪因子・原因の追究と除去（根治療法へのアプローチ）
-カテゴリページ: https://shousekinouhoushou.com/categories/cause-removal.html
-- [禁煙](https://shousekinouhoushou.com/treatments/smoking-cessation.html): 悪化因子の除去。禁煙は治療というより、他の治療の効きを底上げする土台づくりだと捉えている。
-- [扁摘（口蓋扁桃摘出術）](https://shousekinouhoushou.com/treatments/tonsillectomy.html): 病巣感染治療・耳鼻咽喉科。「原因かどうか」を証明してから動くのではなく、疑わしきは調べてもらう、というくらいの温度で向き合っている。
-- [歯科治療（歯根膜炎・歯槽膿漏・根管治療・抜歯）](https://shousekinouhoushou.com/treatments/dental-focal-infection.html): 病巣感染治療・歯科。痛みのない歯を疑うという発想の転換に、最初は戸惑ったけれど今は当たり前になった。
-- [EAT（Bスポット療法）](https://shousekinouhoushou.com/treatments/eat-therapy.html): 病巣感染治療・上咽頭炎。地味な処置ほど、続けられるかどうかが結果を左右する気がしている。
-- [金属アレルギー対策（パッチテスト・歯科金属除去）](https://shousekinouhoushou.com/treatments/metal-allergy.html): 悪化因子の除去。歯科金属の除去は保険外の費用も時間もかかる。優先順位を間違えないための情報だと思っている。
-- [腸管病巣への介入（炎症性腸疾患合併時）](https://shousekinouhoushou.com/treatments/ibd-comorbidity.html): 悪化因子の除去・腸管バリア。自分に当てはまるかどうかは別として、視野を広げておくための一項目。
+カテゴリページ: https://djnaoyaman.github.io/shousekinouhousou/categories/cause-removal.html
+- [禁煙](https://djnaoyaman.github.io/shousekinouhousou/treatments/smoking-cessation.html): 悪化因子の除去。禁煙は治療というより、他の治療の効きを底上げする土台づくりだと捉えている。
+- [扁摘（口蓋扁桃摘出術）](https://djnaoyaman.github.io/shousekinouhousou/treatments/tonsillectomy.html): 病巣感染治療・耳鼻咽喉科。「原因かどうか」を証明してから動くのではなく、疑わしきは調べてもらう、というくらいの温度で向き合っている。
+- [歯科治療（歯根膜炎・歯槽膿漏・根管治療・抜歯）](https://djnaoyaman.github.io/shousekinouhousou/treatments/dental-focal-infection.html): 病巣感染治療・歯科。痛みのない歯を疑うという発想の転換に、最初は戸惑ったけれど今は当たり前になった。
+- [EAT（Bスポット療法）](https://djnaoyaman.github.io/shousekinouhousou/treatments/eat-therapy.html): 病巣感染治療・上咽頭炎。地味な処置ほど、続けられるかどうかが結果を左右する気がしている。
+- [金属アレルギー対策（パッチテスト・歯科金属除去）](https://djnaoyaman.github.io/shousekinouhousou/treatments/metal-allergy.html): 悪化因子の除去。歯科金属の除去は保険外の費用も時間もかかる。優先順位を間違えないための情報だと思っている。
+- [腸管病巣への介入（炎症性腸疾患合併時）](https://djnaoyaman.github.io/shousekinouhousou/treatments/ibd-comorbidity.html): 悪化因子の除去・腸管バリア。自分に当てはまるかどうかは別として、視野を広げておくための一項目。
 
 ## 02 標準的な医療（保険適用を中心とした薬物・光線療法）
-カテゴリページ: https://shousekinouhoushou.com/categories/standard-care.html
-- [ステロイド外用薬](https://shousekinouhoushou.com/treatments/topical-steroid.html): 外用薬。土台の治療であって、これだけで完結させようとしないほうがいいというのが実感。
-- [活性型ビタミンD3外用薬](https://shousekinouhoushou.com/treatments/topical-vitd3.html): 外用薬。ステロイドの「炎症を抑える」とは別の角度から効いている薬、という理解でいる。
-- [ステロイド＋ビタミンD3配合外用薬](https://shousekinouhoushou.com/treatments/topical-combination.html): 外用薬。薬効そのものより、塗り続けられるかという継続性の面で助けられている。
-- [保湿剤・バリア機能補強薬](https://shousekinouhoushou.com/treatments/moisturizer-barrier.html): 外用薬。薄皮一枚のケアが、QOLを地味に、でも確実に上げている。
-- [ナローバンドUVB（NB-UVB）療法](https://shousekinouhoushou.com/treatments/nbuvb.html): 光線療法。「通うだけでいい」という手軽さが、治療を続けるモチベーションに直結していた。
-- [ターゲット型光線療法（エキシマライト・エキシマレーザー）](https://shousekinouhoushou.com/treatments/excimer.html): 光線療法。「狙って当てる」という感覚が、治療している実感を持ちやすくしてくれた。
-- [PUVA療法](https://shousekinouhoushou.com/treatments/puva.html): 光線療法。選択肢が複数あることを知っているだけで、一つの治療がうまくいかないときの気持ちの余白になる。
-- [ビオチン＋強力ネオミノファーゲンC（内服・点滴）](https://shousekinouhoushou.com/treatments/biotin-oral.html): 内服薬。「効くと言われている」と「エビデンスが強い」は必ずしも一致しない、という良い実例だと思っている。
-- [ビタミンA誘導体（エトレチナート）](https://shousekinouhoushou.com/treatments/etretinate.html): 内服薬。効果と副作用のバランスを、自分のライフステージと相談しながら選ぶ薬だと理解している。
-- [PDE4阻害薬（アプレミラスト）](https://shousekinouhoushou.com/treatments/apremilast.html): 内服薬。注射に対する心理的なハードルを一段下げてくれる選択肢だと感じている。
-- [免疫抑制剤（シクロスポリン）](https://shousekinouhoushou.com/treatments/cyclosporine.html): 内服薬。「昔からある薬＝古くて弱い」ではなく、今も現場の選択肢の一つであることを知っておきたい。
-- [ステロイド内服](https://shousekinouhoushou.com/treatments/oral-steroid.html): 内服薬。「今のつらさを一旦下げる」ための道具であって、根本の管理はほかの治療に任せる、という役割分担だと理解している。
-- [非ステロイド性抗炎症薬（NSAIDs）](https://shousekinouhoushou.com/treatments/nsaids.html): 内服薬。皮膚と関節、症状の出る場所が違うと使う薬も変わる、という当たり前のことを実感した治療だった。
-- [IL-23阻害薬（グセルクマブ等）](https://shousekinouhoushou.com/treatments/il23-inhibitor.html): 生物学的製剤。「効果不十分な既存治療の次」として設計された薬だという成り立ちを知ると、使うタイミングの判断がしやすくなる。
-- [IL-17阻害薬](https://shousekinouhoushou.com/treatments/il17-inhibitor.html): 生物学的製剤。同じ生物学的製剤でも標的が違うと聞くと、「効かなかったら終わり」ではないと安心できた。
-- [TNF-α阻害薬](https://shousekinouhoushou.com/treatments/tnf-inhibitor.html): 生物学的製剤。新しい薬が出ても、古い薬がすぐに消えるわけではない。選択肢は積み重なっていくものだと理解している。
+カテゴリページ: https://djnaoyaman.github.io/shousekinouhousou/categories/standard-care.html
+- [ステロイド外用薬](https://djnaoyaman.github.io/shousekinouhousou/treatments/topical-steroid.html): 外用薬。土台の治療であって、これだけで完結させようとしないほうがいいというのが実感。
+- [活性型ビタミンD3外用薬](https://djnaoyaman.github.io/shousekinouhousou/treatments/topical-vitd3.html): 外用薬。ステロイドの「炎症を抑える」とは別の角度から効いている薬、という理解でいる。
+- [ステロイド＋ビタミンD3配合外用薬](https://djnaoyaman.github.io/shousekinouhousou/treatments/topical-combination.html): 外用薬。薬効そのものより、塗り続けられるかという継続性の面で助けられている。
+- [保湿剤・バリア機能補強薬](https://djnaoyaman.github.io/shousekinouhousou/treatments/moisturizer-barrier.html): 外用薬。薄皮一枚のケアが、QOLを地味に、でも確実に上げている。
+- [ナローバンドUVB（NB-UVB）療法](https://djnaoyaman.github.io/shousekinouhousou/treatments/nbuvb.html): 光線療法。「通うだけでいい」という手軽さが、治療を続けるモチベーションに直結していた。
+- [ターゲット型光線療法（エキシマライト・エキシマレーザー）](https://djnaoyaman.github.io/shousekinouhousou/treatments/excimer.html): 光線療法。「狙って当てる」という感覚が、治療している実感を持ちやすくしてくれた。
+- [PUVA療法](https://djnaoyaman.github.io/shousekinouhousou/treatments/puva.html): 光線療法。選択肢が複数あることを知っているだけで、一つの治療がうまくいかないときの気持ちの余白になる。
+- [ビオチン＋強力ネオミノファーゲンC（内服・点滴）](https://djnaoyaman.github.io/shousekinouhousou/treatments/biotin-oral.html): 内服薬。「効くと言われている」と「エビデンスが強い」は必ずしも一致しない、という良い実例だと思っている。
+- [ビタミンA誘導体（エトレチナート）](https://djnaoyaman.github.io/shousekinouhousou/treatments/etretinate.html): 内服薬。効果と副作用のバランスを、自分のライフステージと相談しながら選ぶ薬だと理解している。
+- [PDE4阻害薬（アプレミラスト）](https://djnaoyaman.github.io/shousekinouhousou/treatments/apremilast.html): 内服薬。注射に対する心理的なハードルを一段下げてくれる選択肢だと感じている。
+- [免疫抑制剤（シクロスポリン）](https://djnaoyaman.github.io/shousekinouhousou/treatments/cyclosporine.html): 内服薬。「昔からある薬＝古くて弱い」ではなく、今も現場の選択肢の一つであることを知っておきたい。
+- [ステロイド内服](https://djnaoyaman.github.io/shousekinouhousou/treatments/oral-steroid.html): 内服薬。「今のつらさを一旦下げる」ための道具であって、根本の管理はほかの治療に任せる、という役割分担だと理解している。
+- [非ステロイド性抗炎症薬（NSAIDs）](https://djnaoyaman.github.io/shousekinouhousou/treatments/nsaids.html): 内服薬。皮膚と関節、症状の出る場所が違うと使う薬も変わる、という当たり前のことを実感した治療だった。
+- [IL-23阻害薬（グセルクマブ等）](https://djnaoyaman.github.io/shousekinouhousou/treatments/il23-inhibitor.html): 生物学的製剤。「効果不十分な既存治療の次」として設計された薬だという成り立ちを知ると、使うタイミングの判断がしやすくなる。
+- [IL-17阻害薬](https://djnaoyaman.github.io/shousekinouhousou/treatments/il17-inhibitor.html): 生物学的製剤。同じ生物学的製剤でも標的が違うと聞くと、「効かなかったら終わり」ではないと安心できた。
+- [TNF-α阻害薬](https://djnaoyaman.github.io/shousekinouhousou/treatments/tnf-inhibitor.html): 生物学的製剤。新しい薬が出ても、古い薬がすぐに消えるわけではない。選択肢は積み重なっていくものだと理解している。
 
 ## 03 研究段階・先進的・保険適用外の医療アプローチ（海外・臨床研究レベルの選択肢）
-カテゴリページ: https://shousekinouhoushou.com/categories/advanced.html
-- [JAK阻害薬](https://shousekinouhoushou.com/treatments/jak-inhibitor.html): 内服・外用の分子標的薬。似た名前の病気でも適応が違う、という区別を面倒がらずに確認する価値がある薬だと思っている。
-- [アフェレシス（顆粒球単球吸着療法・血漿交換）](https://shousekinouhoushou.com/treatments/apheresis.html): 血液を体外で処理する治療。「保険適用がない」という一文の重さを、費用と通院のしやすさの両面から実感する治療だった。
-- [高圧酸素療法](https://shousekinouhoushou.com/treatments/hyperbaric-oxygen.html): 重症関節痛・組織修復。選択肢として「知っている」ことと「すぐ受けられる」ことのあいだには、まだ距離がある治療だと感じている。
-- [局所注射療法](https://shousekinouhoushou.com/treatments/local-injection.html): 関節部位への直接治療。全体を整える薬と、困っている一点に効かせる処置を両方持っておく、という発想が心強かった。
+カテゴリページ: https://djnaoyaman.github.io/shousekinouhousou/categories/advanced.html
+- [JAK阻害薬](https://djnaoyaman.github.io/shousekinouhousou/treatments/jak-inhibitor.html): 内服・外用の分子標的薬。似た名前の病気でも適応が違う、という区別を面倒がらずに確認する価値がある薬だと思っている。
+- [アフェレシス（顆粒球単球吸着療法・血漿交換）](https://djnaoyaman.github.io/shousekinouhousou/treatments/apheresis.html): 血液を体外で処理する治療。「保険適用がない」という一文の重さを、費用と通院のしやすさの両面から実感する治療だった。
+- [高圧酸素療法](https://djnaoyaman.github.io/shousekinouhousou/treatments/hyperbaric-oxygen.html): 重症関節痛・組織修復。選択肢として「知っている」ことと「すぐ受けられる」ことのあいだには、まだ距離がある治療だと感じている。
+- [局所注射療法](https://djnaoyaman.github.io/shousekinouhousou/treatments/local-injection.html): 関節部位への直接治療。全体を整える薬と、困っている一点に効かせる処置を両方持っておく、という発想が心強かった。
 
 ## 04 東洋医学・漢方療法（体質・証に応じた全身処方）
-カテゴリページ: https://shousekinouhoushou.com/categories/kampo.html
-- [清熱解毒・清熱涼血系（十味敗毒湯・黄連解毒湯）](https://shousekinouhoushou.com/treatments/kampo-seinetsu.html): 漢方処方。生薬の一つひとつに役割があると知ると、漢方が「なんとなくの民間療法」ではなく体系だったものに見えてくる。
-- [駆瘀血系（桃核承気湯・桂枝茯苓丸）](https://shousekinouhoushou.com/treatments/kampo-kuoketsu.html): 漢方処方。同じ病名でも処方が一つに決まらない、という点が漢方らしさだと感じている。
-- [滋陰潤燥系（当帰飲子・温清飲）](https://shousekinouhoushou.com/treatments/kampo-jiin.html): 漢方処方。膿疱の時期と、乾燥してひび割れる時期とで、必要なアプローチが変わるという当たり前の事実に助けられた。
-- [鍼灸療法](https://shousekinouhoushou.com/treatments/acupuncture.html): 自律神経調整・血流改善。「効くかどうか」を数値で示しづらい治療だからこそ、自分の体感を基準にしていいと思っている。
+カテゴリページ: https://djnaoyaman.github.io/shousekinouhousou/categories/kampo.html
+- [清熱解毒・清熱涼血系（十味敗毒湯・黄連解毒湯）](https://djnaoyaman.github.io/shousekinouhousou/treatments/kampo-seinetsu.html): 漢方処方。生薬の一つひとつに役割があると知ると、漢方が「なんとなくの民間療法」ではなく体系だったものに見えてくる。
+- [駆瘀血系（桃核承気湯・桂枝茯苓丸）](https://djnaoyaman.github.io/shousekinouhousou/treatments/kampo-kuoketsu.html): 漢方処方。同じ病名でも処方が一つに決まらない、という点が漢方らしさだと感じている。
+- [滋陰潤燥系（当帰飲子・温清飲）](https://djnaoyaman.github.io/shousekinouhousou/treatments/kampo-jiin.html): 漢方処方。膿疱の時期と、乾燥してひび割れる時期とで、必要なアプローチが変わるという当たり前の事実に助けられた。
+- [鍼灸療法](https://djnaoyaman.github.io/shousekinouhousou/treatments/acupuncture.html): 自律神経調整・血流改善。「効くかどうか」を数値で示しづらい治療だからこそ、自分の体感を基準にしていいと思っている。
 
 ## 05 民間療法・補完代替医療・サプリメント（生活の中でできるアプローチ）
-カテゴリページ: https://shousekinouhoushou.com/categories/complementary.html
-- [ビオチン療法（民間プロトコル：ビオチン＋ビタミンC＋整腸剤）](https://shousekinouhoushou.com/treatments/biotin-otc.html): サプリメント・民間療法。手を出す前に、これは治療の代替ではなく「試してみる価値があるかもしれない一手」だと自分の中で位置づけ直した。
-- [腸内環境ケア・サプリメント（プロバイオティクス・亜鉛・オメガ3など）](https://shousekinouhoushou.com/treatments/gut-care.html): サプリメント・民間療法。腸と皮膚のつながりは実在する研究領域だけれど、この病気への特効薬ではない、という距離感を保つようにしている。
-- [食事制限（グルテンフリー・カゼインフリー・糖質/加工食品制限・禁酒）](https://shousekinouhoushou.com/treatments/diet-restriction.html): 食生活の見直し。食事は治療ではなく生活の土台。土台がしっかりしていると、他の治療の効きも落ち着いて見える気がする。
-- [温泉療法・浴用剤（酸性泉・硫黄泉・エプソムソルト）](https://shousekinouhoushou.com/treatments/hot-spring.html): セルフケア。気持ちよさとリスクが両立する項目なので、最初は少量・短時間から試すようにしている。
-- [精神的ストレス管理・マインドフルネス](https://shousekinouhoushou.com/treatments/stress-management.html): セルフケア。特効薬ではないけれど、外すと他の治療の効きまで悪くなる、地味に重要な項目だと感じている。
+カテゴリページ: https://djnaoyaman.github.io/shousekinouhousou/categories/complementary.html
+- [ビオチン療法（民間プロトコル：ビオチン＋ビタミンC＋整腸剤）](https://djnaoyaman.github.io/shousekinouhousou/treatments/biotin-otc.html): サプリメント・民間療法。手を出す前に、これは治療の代替ではなく「試してみる価値があるかもしれない一手」だと自分の中で位置づけ直した。
+- [腸内環境ケア・サプリメント（プロバイオティクス・亜鉛・オメガ3など）](https://djnaoyaman.github.io/shousekinouhousou/treatments/gut-care.html): サプリメント・民間療法。腸と皮膚のつながりは実在する研究領域だけれど、この病気への特効薬ではない、という距離感を保つようにしている。
+- [食事制限（グルテンフリー・カゼインフリー・糖質/加工食品制限・禁酒）](https://djnaoyaman.github.io/shousekinouhousou/treatments/diet-restriction.html): 食生活の見直し。食事は治療ではなく生活の土台。土台がしっかりしていると、他の治療の効きも落ち着いて見える気がする。
+- [温泉療法・浴用剤（酸性泉・硫黄泉・エプソムソルト）](https://djnaoyaman.github.io/shousekinouhousou/treatments/hot-spring.html): セルフケア。気持ちよさとリスクが両立する項目なので、最初は少量・短時間から試すようにしている。
+- [精神的ストレス管理・マインドフルネス](https://djnaoyaman.github.io/shousekinouhousou/treatments/stress-management.html): セルフケア。特効薬ではないけれど、外すと他の治療の効きまで悪くなる、地味に重要な項目だと感じている。
 
 ## Optional
-- [llms-full.txt](https://shousekinouhoushou.com/llms-full.txt): 全ページの本文をまとめたプレーンテキスト版
+- [llms-full.txt](https://djnaoyaman.github.io/shousekinouhousou/llms-full.txt): 全ページの本文をまとめたプレーンテキスト版
