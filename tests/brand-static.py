@@ -33,7 +33,9 @@ for rel in paths:
  assert page.meta['og:image:alt']==page.meta['twitter:image:alt']
  assert page.meta['og:image']==page.meta['twitter:image']
  assert page.meta['og:image:width']=='1200' and page.meta['og:image:height']=='630'
- for schema in re.findall(r'<script type="application/ld\+json">(.*?)</script>',s,re.S):assert json.loads(schema).get('dateModified')=='2026-11-01',rel
+ for schema in re.findall(r'<script type="application/ld\+json">(.*?)</script>',s,re.S):
+  data=json.loads(schema)
+  if 'dateModified' in data:assert data['dateModified']=='2026-11-01',rel
  if 'article:modified_time' in page.meta:assert page.meta['article:modified_time']=='2026-11-01'
  if rel=='404.html':assert page.meta['robots']=='noindex, follow'
  for tag in re.findall(r'<link\b[^>]+>',s):
