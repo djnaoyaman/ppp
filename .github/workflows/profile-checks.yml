@@ -1,7 +1,7 @@
 name: Author profile browser checks
 on:
   pull_request:
-    paths: ['404.html', 'tests/crawl-metadata.py', 'profile.html', 'about.html', 'index.html', 'style.css', 'script.js', 'tests/profile-browser.cjs', '.github/workflows/profile-checks.yml']
+    paths: ['**.html', 'styles.css', 'sitemap.xml', 'assets/brand/**', 'og/**', 'scripts/**', 'tests/brand*', '404.html', 'tests/crawl-metadata.py', 'profile.html', 'about.html', 'index.html', 'style.css', 'script.js', 'tests/profile-browser.cjs', '.github/workflows/profile-checks.yml']
 permissions:
   contents: read
 jobs:
@@ -18,13 +18,18 @@ jobs:
           node-version: '22'
       - run: npm install --no-save --package-lock=false playwright@1.56.1
       - run: npx playwright install --with-deps chromium
+      - run: sudo apt-get install -y fonts-noto-cjk
       - run: |
           python3 -m http.server 8765 --bind 127.0.0.1 >/tmp/profile-http.log 2>&1 &
+          python3 scripts/build_og_cards.py
+          node scripts/render-og-cards.cjs
+          python3 tests/brand-static.py
+          node tests/brand-browser.cjs
           node tests/profile-browser.cjs
       - uses: actions/upload-artifact@v4
         if: always()
         with:
           name: author-profile-screenshots
-          path: test-artifacts/profile/
+          path: test-artifacts/
           if-no-files-found: warn
           retention-days: 7

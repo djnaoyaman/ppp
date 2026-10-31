@@ -1,0 +1,8 @@
+Zen Maru Gothic Light — weight 300
+Copyright 2021 The Zen Maru Gothic Authors
+https://github.com/googlefonts/zen-marugothic
+
+Official source: https://fonts.google.com/specimen/Zen+Maru+Gothic
+Embedded license URL (name table record 14): https://scripts.sil.org/OFL
+The exact required-glyph subset was fetched from fonts.gstatic.com.
+Font binary is not bundled in this deliverable; the rendering master uses outlined glyphs.

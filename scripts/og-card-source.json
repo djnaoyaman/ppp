@@ -1,0 +1,207 @@
+{
+  "og/default.png": {
+    "page": "index.html",
+    "title": "掌蹠膿疱症の治療法まとめ",
+    "description": "掌蹠膿疱症（PPP）の症状・原因・治療法を、標準医療から漢方・セルフケアまで35項目の医療アプローチに分けて解説。まず症状を抑えてQOLを上げ、根治療法は並行して早期に試す、という考え方で整理しています。"
+  },
+  "og/advanced.png": {
+    "page": "categories/advanced.html",
+    "title": "先進医療・研究段階の治療",
+    "description": "掌蹠膿疱症（PPP）の症状・原因に対する医療アプローチのひとつ、研究段階・先進的・保険適用外の医療アプローチ（海外・臨床研究レベルの選択肢）を、4項目に分けて解説します。"
+  },
+  "og/cause-removal.png": {
+    "page": "categories/cause-removal.html",
+    "title": "増悪因子の除去",
+    "description": "掌蹠膿疱症（PPP）の症状・原因に対する医療アプローチのひとつ、増悪因子・原因の追究と除去（根治療法へのアプローチ）を、6項目に分けて解説します。"
+  },
+  "og/complementary.png": {
+    "page": "categories/complementary.html",
+    "title": "民間療法・補完代替医療",
+    "description": "掌蹠膿疱症（PPP）の症状・原因に対する医療アプローチのひとつ、民間療法・補完代替医療・サプリメント（生活の中でできるアプローチ）を、5項目に分けて解説します。"
+  },
+  "og/kampo.png": {
+    "page": "categories/kampo.html",
+    "title": "東洋医学・漢方療法",
+    "description": "掌蹠膿疱症（PPP）の症状・原因に対する医療アプローチのひとつ、東洋医学・漢方療法（体質・証に応じた全身処方）を、4項目に分けて解説します。"
+  },
+  "og/standard-care.png": {
+    "page": "categories/standard-care.html",
+    "title": "標準的な医療",
+    "description": "掌蹠膿疱症（PPP）の症状・原因に対する医療アプローチのひとつ、標準的な医療（保険適用を中心とした薬物・光線療法）を、16項目に分けて解説します。"
+  },
+  "og/acupuncture.png": {
+    "page": "treatments/acupuncture.html",
+    "title": "鍼灸療法と掌蹠膿疱症",
+    "description": "掌蹠膿疱症（PPP）における鍼灸療法について、報告されている効果・使われ方・出典を整理しました。「効くかどうか」を数値で示しづらい治療だからこそ、自分の体感を基準にしていいと思っている。"
+  },
+  "og/apheresis.png": {
+    "page": "treatments/apheresis.html",
+    "title": "アフェレシスと掌蹠膿疱症",
+    "description": "掌蹠膿疱症（PPP）におけるアフェレシス（顆粒球単球吸着療法・血漿交換）について、報告されている効果・使われ方・出典を整理しました。「保険適用がない」という一文の重さを、費用と通院のしやすさの両面から実感する治療だった。"
+  },
+  "og/apremilast.png": {
+    "page": "treatments/apremilast.html",
+    "title": "PDE4阻害薬と掌蹠膿疱症",
+    "description": "掌蹠膿疱症（PPP）におけるPDE4阻害薬（アプレミラスト）について、報告されている効果・使われ方・出典を整理しました。注射に対する心理的なハードルを一段下げてくれる選択肢だと感じている。"
+  },
+  "og/biotin-oral.png": {
+    "page": "treatments/biotin-oral.html",
+    "title": "ビオチン＋強力ネオミノファーゲンCと掌蹠膿疱症",
+    "description": "掌蹠膿疱症（PPP）におけるビオチン＋強力ネオミノファーゲンC（内服・点滴）について、報告されている効果・使われ方・出典を整理しました。「効くと言われている」と「エビデンスが強い」は必ずしも一致しない、という良い実例だと思っている。"
+  },
+  "og/biotin-otc.png": {
+    "page": "treatments/biotin-otc.html",
+    "title": "ビオチン療法と掌蹠膿疱症",
+    "description": "掌蹠膿疱症（PPP）におけるビオチン療法（民間プロトコル：ビオチン＋ビタミンC＋整腸剤）について、報告されている効果・使われ方・出典を整理しました。手を出す前に、これは治療の代替ではなく「試してみる価値があるかもしれない一手」だと自分の中で位置づけ直した。"
+  },
+  "og/cyclosporine.png": {
+    "page": "treatments/cyclosporine.html",
+    "title": "免疫抑制剤と掌蹠膿疱症",
+    "description": "掌蹠膿疱症（PPP）における免疫抑制剤（シクロスポリン）について、報告されている効果・使われ方・出典を整理しました。「昔からある薬＝古くて弱い」ではなく、今も現場の選択肢の一つであることを知っておきたい。"
+  },
+  "og/dental-focal-infection.png": {
+    "page": "treatments/dental-focal-infection.html",
+    "title": "歯科治療と掌蹠膿疱症",
+    "description": "掌蹠膿疱症（PPP）における歯科治療（歯根膜炎・歯槽膿漏・根管治療・抜歯）について、報告されている効果・使われ方・出典を整理しました。痛みのない歯を疑うという発想の転換に、最初は戸惑ったけれど今は当たり前になった。"
+  },
+  "og/diet-restriction.png": {
+    "page": "treatments/diet-restriction.html",
+    "title": "食事制限と掌蹠膿疱症",
+    "description": "掌蹠膿疱症（PPP）における食事制限（グルテンフリー・カゼインフリー・糖質/加工食品制限・禁酒）について、報告されている効果・使われ方・出典を整理しました。食事は治療ではなく生活の土台。土台がしっかりしていると、他の治療の効きも落ち着いて見える気がする。"
+  },
+  "og/eat-therapy.png": {
+    "page": "treatments/eat-therapy.html",
+    "title": "EATと掌蹠膿疱症",
+    "description": "掌蹠膿疱症（PPP）におけるEAT（Bスポット療法）について、報告されている効果・使われ方・出典を整理しました。地味な処置ほど、続けられるかどうかが結果を左右する気がしている。"
+  },
+  "og/etretinate.png": {
+    "page": "treatments/etretinate.html",
+    "title": "ビタミンA誘導体と掌蹠膿疱症",
+    "description": "掌蹠膿疱症（PPP）におけるビタミンA誘導体（エトレチナート）について、報告されている効果・使われ方・出典を整理しました。効果と副作用のバランスを、自分のライフステージと相談しながら選ぶ薬だと理解している。"
+  },
+  "og/excimer.png": {
+    "page": "treatments/excimer.html",
+    "title": "ターゲット型光線療法と掌蹠膿疱症",
+    "description": "掌蹠膿疱症（PPP）におけるターゲット型光線療法（エキシマライト・エキシマレーザー）について、報告されている効果・使われ方・出典を整理しました。「狙って当てる」という感覚が、治療している実感を持ちやすくしてくれた。"
+  },
+  "og/gut-care.png": {
+    "page": "treatments/gut-care.html",
+    "title": "腸内環境ケア・サプリメントと掌蹠膿疱症",
+    "description": "掌蹠膿疱症（PPP）における腸内環境ケア・サプリメント（プロバイオティクス・亜鉛・オメガ3など）について、報告されている効果・使われ方・出典を整理しました。腸と皮膚のつながりは実在する研究領域だけれど、この病気への特効薬ではない、という距離感を保つようにしている。"
+  },
+  "og/hot-spring.png": {
+    "page": "treatments/hot-spring.html",
+    "title": "温泉療法・浴用剤と掌蹠膿疱症",
+    "description": "掌蹠膿疱症（PPP）における温泉療法・浴用剤（酸性泉・硫黄泉・エプソムソルト）について、報告されている効果・使われ方・出典を整理しました。気持ちよさとリスクが両立する項目なので、最初は少量・短時間から試すようにしている。"
+  },
+  "og/hyperbaric-oxygen.png": {
+    "page": "treatments/hyperbaric-oxygen.html",
+    "title": "高圧酸素療法と掌蹠膿疱症",
+    "description": "掌蹠膿疱症（PPP）における高圧酸素療法について、報告されている効果・使われ方・出典を整理しました。選択肢として「知っている」ことと「すぐ受けられる」ことのあいだには、まだ距離がある治療だと感じている。"
+  },
+  "og/ibd-comorbidity.png": {
+    "page": "treatments/ibd-comorbidity.html",
+    "title": "腸管病巣への介入と掌蹠膿疱症",
+    "description": "掌蹠膿疱症（PPP）における腸管病巣への介入（炎症性腸疾患合併時）について、報告されている効果・使われ方・出典を整理しました。自分に当てはまるかどうかは別として、視野を広げておくための一項目。"
+  },
+  "og/il17-inhibitor.png": {
+    "page": "treatments/il17-inhibitor.html",
+    "title": "IL-17阻害薬と掌蹠膿疱症",
+    "description": "掌蹠膿疱症（PPP）におけるIL-17阻害薬について、報告されている効果・使われ方・出典を整理しました。同じ生物学的製剤でも標的が違うと聞くと、「効かなかったら終わり」ではないと安心できた。"
+  },
+  "og/il23-inhibitor.png": {
+    "page": "treatments/il23-inhibitor.html",
+    "title": "IL-23阻害薬と掌蹠膿疱症",
+    "description": "掌蹠膿疱症（PPP）におけるIL-23阻害薬（グセルクマブ等）について、報告されている効果・使われ方・出典を整理しました。「効果不十分な既存治療の次」として設計された薬だという成り立ちを知ると、使うタイミングの判断がしやすくなる。"
+  },
+  "og/jak-inhibitor.png": {
+    "page": "treatments/jak-inhibitor.html",
+    "title": "JAK阻害薬と掌蹠膿疱症",
+    "description": "掌蹠膿疱症（PPP）におけるJAK阻害薬について、報告されている効果・使われ方・出典を整理しました。似た名前の病気でも適応が違う、という区別を面倒がらずに確認する価値がある薬だと思っている。"
+  },
+  "og/kampo-jiin.png": {
+    "page": "treatments/kampo-jiin.html",
+    "title": "滋陰潤燥系と掌蹠膿疱症",
+    "description": "掌蹠膿疱症（PPP）における滋陰潤燥系（当帰飲子・温清飲）について、報告されている効果・使われ方・出典を整理しました。膿疱の時期と、乾燥してひび割れる時期とで、必要なアプローチが変わるという当たり前の事実に助けられた。"
+  },
+  "og/kampo-kuoketsu.png": {
+    "page": "treatments/kampo-kuoketsu.html",
+    "title": "駆瘀血系と掌蹠膿疱症",
+    "description": "掌蹠膿疱症（PPP）における駆瘀血系（桃核承気湯・桂枝茯苓丸）について、報告されている効果・使われ方・出典を整理しました。同じ病名でも処方が一つに決まらない、という点が漢方らしさだと感じている。"
+  },
+  "og/kampo-seinetsu.png": {
+    "page": "treatments/kampo-seinetsu.html",
+    "title": "清熱解毒・清熱涼血系と掌蹠膿疱症",
+    "description": "掌蹠膿疱症（PPP）における清熱解毒・清熱涼血系（十味敗毒湯・黄連解毒湯）について、報告されている効果・使われ方・出典を整理しました。生薬の一つひとつに役割があると知ると、漢方が「なんとなくの民間療法」ではなく体系だったものに見えてくる。"
+  },
+  "og/local-injection.png": {
+    "page": "treatments/local-injection.html",
+    "title": "局所注射療法と掌蹠膿疱症",
+    "description": "掌蹠膿疱症（PPP）における局所注射療法について、報告されている効果・使われ方・出典を整理しました。全体を整える薬と、困っている一点に効かせる処置を両方持っておく、という発想が心強かった。"
+  },
+  "og/metal-allergy.png": {
+    "page": "treatments/metal-allergy.html",
+    "title": "金属アレルギー対策と掌蹠膿疱症",
+    "description": "掌蹠膿疱症（PPP）における金属アレルギー対策（パッチテスト・歯科金属除去）について、報告されている効果・使われ方・出典を整理しました。歯科金属の除去は保険外の費用も時間もかかる。優先順位を間違えないための情報だと思っている。"
+  },
+  "og/moisturizer-barrier.png": {
+    "page": "treatments/moisturizer-barrier.html",
+    "title": "保湿剤・バリア機能補強薬と掌蹠膿疱症",
+    "description": "掌蹠膿疱症（PPP）における保湿剤・バリア機能補強薬について、報告されている効果・使われ方・出典を整理しました。薄皮一枚のケアが、QOLを地味に、でも確実に上げている。"
+  },
+  "og/nbuvb.png": {
+    "page": "treatments/nbuvb.html",
+    "title": "ナローバンドUVB療法と掌蹠膿疱症",
+    "description": "掌蹠膿疱症（PPP）におけるナローバンドUVB（NB-UVB）療法について、報告されている効果・使われ方・出典を整理しました。「通うだけでいい」という手軽さが、治療を続けるモチベーションに直結していた。"
+  },
+  "og/nsaids.png": {
+    "page": "treatments/nsaids.html",
+    "title": "非ステロイド性抗炎症薬と掌蹠膿疱症",
+    "description": "掌蹠膿疱症（PPP）における非ステロイド性抗炎症薬（NSAIDs）について、報告されている効果・使われ方・出典を整理しました。皮膚と関節、症状の出る場所が違うと使う薬も変わる、という当たり前のことを実感した治療だった。"
+  },
+  "og/oral-steroid.png": {
+    "page": "treatments/oral-steroid.html",
+    "title": "ステロイド内服と掌蹠膿疱症",
+    "description": "掌蹠膿疱症（PPP）におけるステロイド内服について、報告されている効果・使われ方・出典を整理しました。「今のつらさを一旦下げる」ための道具であって、根本の管理はほかの治療に任せる、という役割分担だと理解している。"
+  },
+  "og/puva.png": {
+    "page": "treatments/puva.html",
+    "title": "PUVA療法と掌蹠膿疱症",
+    "description": "掌蹠膿疱症（PPP）におけるPUVA療法について、報告されている効果・使われ方・出典を整理しました。選択肢が複数あることを知っているだけで、一つの治療がうまくいかないときの気持ちの余白になる。"
+  },
+  "og/smoking-cessation.png": {
+    "page": "treatments/smoking-cessation.html",
+    "title": "禁煙と掌蹠膿疱症",
+    "description": "掌蹠膿疱症（PPP）における禁煙について、報告されている効果・使われ方・出典を整理しました。禁煙は治療というより、他の治療の効きを底上げする土台づくりだと捉えている。"
+  },
+  "og/stress-management.png": {
+    "page": "treatments/stress-management.html",
+    "title": "精神的ストレス管理・マインドフルネスと掌蹠膿疱症",
+    "description": "掌蹠膿疱症（PPP）における精神的ストレス管理・マインドフルネスについて、報告されている効果・使われ方・出典を整理しました。特効薬ではないけれど、外すと他の治療の効きまで悪くなる、地味に重要な項目だと感じている。"
+  },
+  "og/tnf-inhibitor.png": {
+    "page": "treatments/tnf-inhibitor.html",
+    "title": "TNF-α阻害薬と掌蹠膿疱症",
+    "description": "掌蹠膿疱症（PPP）におけるTNF-α阻害薬について、報告されている効果・使われ方・出典を整理しました。新しい薬が出ても、古い薬がすぐに消えるわけではない。選択肢は積み重なっていくものだと理解している。"
+  },
+  "og/tonsillectomy.png": {
+    "page": "treatments/tonsillectomy.html",
+    "title": "扁摘と掌蹠膿疱症",
+    "description": "掌蹠膿疱症（PPP）における扁摘（口蓋扁桃摘出術）について、報告されている効果・使われ方・出典を整理しました。「原因かどうか」を証明してから動くのではなく、疑わしきは調べてもらう、というくらいの温度で向き合っている。"
+  },
+  "og/topical-combination.png": {
+    "page": "treatments/topical-combination.html",
+    "title": "ステロイド＋ビタミンD3配合外用薬と掌蹠膿疱症",
+    "description": "掌蹠膿疱症（PPP）におけるステロイド＋ビタミンD3配合外用薬について、報告されている効果・使われ方・出典を整理しました。薬効そのものより、塗り続けられるかという継続性の面で助けられている。"
+  },
+  "og/topical-steroid.png": {
+    "page": "treatments/topical-steroid.html",
+    "title": "ステロイド外用薬と掌蹠膿疱症",
+    "description": "掌蹠膿疱症（PPP）におけるステロイド外用薬について、報告されている効果・使われ方・出典を整理しました。土台の治療であって、これだけで完結させようとしないほうがいいというのが実感。"
+  },
+  "og/topical-vitd3.png": {
+    "page": "treatments/topical-vitd3.html",
+    "title": "活性型ビタミンD3外用薬と掌蹠膿疱症",
+    "description": "掌蹠膿疱症（PPP）における活性型ビタミンD3外用薬について、報告されている効果・使われ方・出典を整理しました。ステロイドの「炎症を抑える」とは別の角度から効いている薬、という理解でいる。"
+  }
+}

@@ -1,0 +1,1922 @@
+{
+  "logo_sha256": "f1b9df18d15b45fd76f7984b962b6fcea48a2789e9690b541e0559b9318a6169",
+  "pages": {
+    "404.html": {
+      "ids": [
+        "menu-toggle",
+        "site-nav",
+        "today-date"
+      ],
+      "links": [
+        "index.html",
+        "index.html",
+        "about-ppp.html",
+        "timeline.html",
+        "quiz.html",
+        "categories/cause-removal.html",
+        "categories/standard-care.html",
+        "categories/advanced.html",
+        "categories/kampo.html",
+        "categories/complementary.html",
+        "index.html",
+        "timeline.html",
+        "quiz.html",
+        "categories/cause-removal.html",
+        "categories/standard-care.html",
+        "categories/advanced.html",
+        "categories/kampo.html",
+        "categories/complementary.html",
+        "about.html",
+        "https://ppp-community.com/"
+      ],
+      "canonical": [
+        "https://djnaoyaman.github.io/ppp/404.html"
+      ],
+      "icons": [
+        "<link rel=\"icon\" href=\"favicon.svg?v=2026-09-20\" type=\"image/svg+xml\">",
+        "<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"apple-touch-icon.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"icon-192.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"512x512\" href=\"icon-512.png?v=2026-09-20\">"
+      ],
+      "body_sha256": "8b439413a6e5ea6b28eb574bd3a168b1ebc9905024c9ce4e78b95d059a00abdd",
+      "footer_update": "最終更新：2026-11-01（404ページの検索設定）"
+    },
+    "index.html": {
+      "ids": [
+        "menu-toggle",
+        "site-nav",
+        "clinic-links-heading",
+        "today-date"
+      ],
+      "links": [
+        "index.html",
+        "index.html",
+        "about-ppp.html",
+        "timeline.html",
+        "quiz.html",
+        "clinics/higuchi-dental.html",
+        "categories/cause-removal.html",
+        "categories/standard-care.html",
+        "categories/advanced.html",
+        "categories/kampo.html",
+        "categories/complementary.html",
+        "about-ppp.html",
+        "timeline.html",
+        "quiz.html",
+        "categories/cause-removal.html",
+        "categories/standard-care.html",
+        "categories/advanced.html",
+        "categories/kampo.html",
+        "categories/complementary.html",
+        "clinics/higuchi-dental.html",
+        "about.html",
+        "https://ppp-community.com/"
+      ],
+      "canonical": [
+        "https://djnaoyaman.github.io/ppp/index.html"
+      ],
+      "icons": [
+        "<link rel=\"icon\" href=\"favicon.svg?v=2026-09-20\" type=\"image/svg+xml\">",
+        "<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"apple-touch-icon.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"icon-192.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"512x512\" href=\"icon-512.png?v=2026-09-20\">"
+      ],
+      "body_sha256": "3ddfb85102a5017c06d7a921b98a5229c2beb26c26c5d01379da91c2698d9397",
+      "footer_update": "最終更新：2026-10-31（作者情報の整理）"
+    },
+    "about-ppp.html": {
+      "ids": [
+        "menu-toggle",
+        "site-nav",
+        "today-date"
+      ],
+      "links": [
+        "index.html",
+        "index.html",
+        "about-ppp.html",
+        "timeline.html",
+        "quiz.html",
+        "categories/cause-removal.html",
+        "categories/standard-care.html",
+        "categories/advanced.html",
+        "categories/kampo.html",
+        "categories/complementary.html",
+        "index.html",
+        "https://ppp-community.com/",
+        "https://ppp-community.com/doctor/",
+        "index.html",
+        "timeline.html",
+        "categories/standard-care.html",
+        "categories/cause-removal.html",
+        "https://www.saiseikai.or.jp/medical/disease/palmoplantar_pustulosis/",
+        "https://urata-hifuka.com/derma/ppp/",
+        "https://www.amgen.co.jp/media/press-releases/2025/03/20250327",
+        "https://www.kansennet.jp/ppp/disease/etiology.html",
+        "https://ppp-community.com/",
+        "about.html",
+        "https://ppp-community.com/"
+      ],
+      "canonical": [
+        "https://djnaoyaman.github.io/ppp/about-ppp.html"
+      ],
+      "icons": [
+        "<link rel=\"icon\" href=\"favicon.svg?v=2026-09-20\" type=\"image/svg+xml\">",
+        "<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"apple-touch-icon.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"icon-192.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"512x512\" href=\"icon-512.png?v=2026-09-20\">"
+      ],
+      "body_sha256": "6f3b7684799fd2d184650edba24921b1b624afc101c98a0efd2b28f4fa9674b9",
+      "footer_update": "最終更新：2026-10-31（作者情報の整理）"
+    },
+    "timeline.html": {
+      "ids": [
+        "menu-toggle",
+        "site-nav",
+        "today-date"
+      ],
+      "links": [
+        "index.html",
+        "index.html",
+        "about-ppp.html",
+        "timeline.html",
+        "quiz.html",
+        "categories/cause-removal.html",
+        "categories/standard-care.html",
+        "categories/advanced.html",
+        "categories/kampo.html",
+        "categories/complementary.html",
+        "index.html",
+        "https://www.da.abbvie.co.jp/ppp/therapies.html",
+        "https://www.apheresis-jp.org/143294.html",
+        "https://ppp-community.com/",
+        "about.html",
+        "https://ppp-community.com/"
+      ],
+      "canonical": [
+        "https://djnaoyaman.github.io/ppp/timeline.html"
+      ],
+      "icons": [
+        "<link rel=\"icon\" href=\"favicon.svg?v=2026-09-20\" type=\"image/svg+xml\">",
+        "<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"apple-touch-icon.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"icon-192.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"512x512\" href=\"icon-512.png?v=2026-09-20\">"
+      ],
+      "body_sha256": "538f1906b93106b12b7ce6f1032e22b29bd7d52fdfe4cb9e2fb27182295fc756",
+      "footer_update": "最終更新：2026-10-31（作者情報の整理）"
+    },
+    "quiz.html": {
+      "ids": [
+        "menu-toggle",
+        "site-nav",
+        "quiz-progress",
+        "quiz-shuffle",
+        "quiz-reset-all",
+        "quiz-list",
+        "mistake-notebook",
+        "mistake-empty",
+        "mistake-list",
+        "quiz-bank",
+        "today-date"
+      ],
+      "links": [
+        "index.html",
+        "index.html",
+        "about-ppp.html",
+        "timeline.html",
+        "quiz.html",
+        "categories/cause-removal.html",
+        "categories/standard-care.html",
+        "categories/advanced.html",
+        "categories/kampo.html",
+        "categories/complementary.html",
+        "index.html",
+        "about.html",
+        "https://ppp-community.com/"
+      ],
+      "canonical": [
+        "https://djnaoyaman.github.io/ppp/quiz.html"
+      ],
+      "icons": [
+        "<link rel=\"icon\" href=\"favicon.svg?v=2026-09-20\" type=\"image/svg+xml\">",
+        "<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"apple-touch-icon.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"icon-192.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"512x512\" href=\"icon-512.png?v=2026-09-20\">"
+      ],
+      "body_sha256": "de92be77c1ba65f7cb1cee62a2043b87564d557cddf3ff35e4fc22b41e29c7d7",
+      "footer_update": "最終更新：2026-10-31（作者情報の整理）"
+    },
+    "about.html": {
+      "ids": [
+        "menu-toggle",
+        "site-nav",
+        "today-date"
+      ],
+      "links": [
+        "index.html",
+        "index.html",
+        "about-ppp.html",
+        "timeline.html",
+        "quiz.html",
+        "categories/cause-removal.html",
+        "categories/standard-care.html",
+        "categories/advanced.html",
+        "categories/kampo.html",
+        "categories/complementary.html",
+        "index.html",
+        "https://djnaoyaman.github.io/profile.html",
+        "about.html",
+        "https://ppp-community.com/"
+      ],
+      "canonical": [
+        "https://djnaoyaman.github.io/ppp/about.html"
+      ],
+      "icons": [
+        "<link rel=\"icon\" href=\"favicon.svg?v=2026-09-20\" type=\"image/svg+xml\">",
+        "<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"apple-touch-icon.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"icon-192.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"512x512\" href=\"icon-512.png?v=2026-09-20\">"
+      ],
+      "body_sha256": "863af251c99e0bbb0b76542fa97960eadfa3000aa990dbb367291adaf8d53b6c",
+      "footer_update": "最終更新：2026-10-31（作者情報の整理）"
+    },
+    "categories/kampo.html": {
+      "ids": [
+        "menu-toggle",
+        "site-nav",
+        "today-date"
+      ],
+      "links": [
+        "../index.html",
+        "../index.html",
+        "../about-ppp.html",
+        "../timeline.html",
+        "../quiz.html",
+        "../categories/cause-removal.html",
+        "../categories/standard-care.html",
+        "../categories/advanced.html",
+        "../categories/kampo.html",
+        "../categories/complementary.html",
+        "../index.html",
+        "../treatments/kampo-seinetsu.html",
+        "../treatments/kampo-kuoketsu.html",
+        "../treatments/kampo-jiin.html",
+        "../treatments/acupuncture.html",
+        "../about.html",
+        "https://ppp-community.com/"
+      ],
+      "canonical": [
+        "https://djnaoyaman.github.io/ppp/categories/kampo.html"
+      ],
+      "icons": [
+        "<link rel=\"icon\" href=\"../favicon.svg?v=2026-09-20\" type=\"image/svg+xml\">",
+        "<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"../apple-touch-icon.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"../icon-192.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"512x512\" href=\"../icon-512.png?v=2026-09-20\">"
+      ],
+      "body_sha256": "fa12e9effe0b9549fe630895d74777c88fe58d3805c6043d5155088be4c306b0",
+      "footer_update": "最終更新：2026-10-31（作者情報の整理）"
+    },
+    "categories/standard-care.html": {
+      "ids": [
+        "menu-toggle",
+        "site-nav",
+        "today-date"
+      ],
+      "links": [
+        "../index.html",
+        "../index.html",
+        "../about-ppp.html",
+        "../timeline.html",
+        "../quiz.html",
+        "../categories/cause-removal.html",
+        "../categories/standard-care.html",
+        "../categories/advanced.html",
+        "../categories/kampo.html",
+        "../categories/complementary.html",
+        "../index.html",
+        "../treatments/topical-steroid.html",
+        "../treatments/topical-vitd3.html",
+        "../treatments/topical-combination.html",
+        "../treatments/moisturizer-barrier.html",
+        "../treatments/nbuvb.html",
+        "../treatments/excimer.html",
+        "../treatments/puva.html",
+        "../treatments/biotin-oral.html",
+        "../treatments/etretinate.html",
+        "../treatments/apremilast.html",
+        "../treatments/cyclosporine.html",
+        "../treatments/oral-steroid.html",
+        "../treatments/nsaids.html",
+        "../treatments/il23-inhibitor.html",
+        "../treatments/il17-inhibitor.html",
+        "../treatments/tnf-inhibitor.html",
+        "../about.html",
+        "https://ppp-community.com/"
+      ],
+      "canonical": [
+        "https://djnaoyaman.github.io/ppp/categories/standard-care.html"
+      ],
+      "icons": [
+        "<link rel=\"icon\" href=\"../favicon.svg?v=2026-09-20\" type=\"image/svg+xml\">",
+        "<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"../apple-touch-icon.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"../icon-192.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"512x512\" href=\"../icon-512.png?v=2026-09-20\">"
+      ],
+      "body_sha256": "d467bc7150d962507df512d78398326a34587488860d7cdeef028d640b6d0ee4",
+      "footer_update": "最終更新：2026-10-31（作者情報の整理）"
+    },
+    "categories/complementary.html": {
+      "ids": [
+        "menu-toggle",
+        "site-nav",
+        "today-date"
+      ],
+      "links": [
+        "../index.html",
+        "../index.html",
+        "../about-ppp.html",
+        "../timeline.html",
+        "../quiz.html",
+        "../categories/cause-removal.html",
+        "../categories/standard-care.html",
+        "../categories/advanced.html",
+        "../categories/kampo.html",
+        "../categories/complementary.html",
+        "../index.html",
+        "../treatments/biotin-otc.html",
+        "../treatments/gut-care.html",
+        "../treatments/diet-restriction.html",
+        "../treatments/hot-spring.html",
+        "../treatments/stress-management.html",
+        "../about.html",
+        "https://ppp-community.com/"
+      ],
+      "canonical": [
+        "https://djnaoyaman.github.io/ppp/categories/complementary.html"
+      ],
+      "icons": [
+        "<link rel=\"icon\" href=\"../favicon.svg?v=2026-09-20\" type=\"image/svg+xml\">",
+        "<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"../apple-touch-icon.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"../icon-192.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"512x512\" href=\"../icon-512.png?v=2026-09-20\">"
+      ],
+      "body_sha256": "de5542e7f026ee4b2007c02715bc6fe7ff294e919977ea6e4dad36760fce871a",
+      "footer_update": "最終更新：2026-10-31（作者情報の整理）"
+    },
+    "categories/advanced.html": {
+      "ids": [
+        "menu-toggle",
+        "site-nav",
+        "today-date"
+      ],
+      "links": [
+        "../index.html",
+        "../index.html",
+        "../about-ppp.html",
+        "../timeline.html",
+        "../quiz.html",
+        "../categories/cause-removal.html",
+        "../categories/standard-care.html",
+        "../categories/advanced.html",
+        "../categories/kampo.html",
+        "../categories/complementary.html",
+        "../index.html",
+        "../treatments/jak-inhibitor.html",
+        "../treatments/apheresis.html",
+        "../treatments/hyperbaric-oxygen.html",
+        "../treatments/local-injection.html",
+        "../about.html",
+        "https://ppp-community.com/"
+      ],
+      "canonical": [
+        "https://djnaoyaman.github.io/ppp/categories/advanced.html"
+      ],
+      "icons": [
+        "<link rel=\"icon\" href=\"../favicon.svg?v=2026-09-20\" type=\"image/svg+xml\">",
+        "<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"../apple-touch-icon.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"../icon-192.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"512x512\" href=\"../icon-512.png?v=2026-09-20\">"
+      ],
+      "body_sha256": "8884e27d214be1787fce973955fd0a3533ee29aaddba617aa4b3cfd112c4b473",
+      "footer_update": "最終更新：2026-10-31（作者情報の整理）"
+    },
+    "categories/cause-removal.html": {
+      "ids": [
+        "menu-toggle",
+        "site-nav",
+        "today-date"
+      ],
+      "links": [
+        "../index.html",
+        "../index.html",
+        "../about-ppp.html",
+        "../timeline.html",
+        "../quiz.html",
+        "../categories/cause-removal.html",
+        "../categories/standard-care.html",
+        "../categories/advanced.html",
+        "../categories/kampo.html",
+        "../categories/complementary.html",
+        "../index.html",
+        "../treatments/smoking-cessation.html",
+        "../treatments/tonsillectomy.html",
+        "../treatments/dental-focal-infection.html",
+        "../treatments/eat-therapy.html",
+        "../treatments/metal-allergy.html",
+        "../treatments/ibd-comorbidity.html",
+        "../about.html",
+        "https://ppp-community.com/"
+      ],
+      "canonical": [
+        "https://djnaoyaman.github.io/ppp/categories/cause-removal.html"
+      ],
+      "icons": [
+        "<link rel=\"icon\" href=\"../favicon.svg?v=2026-09-20\" type=\"image/svg+xml\">",
+        "<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"../apple-touch-icon.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"../icon-192.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"512x512\" href=\"../icon-512.png?v=2026-09-20\">"
+      ],
+      "body_sha256": "649e8b82fd043d53b06089b362b75247291f4f8132ff1878ed0f08551417ca1e",
+      "footer_update": "最終更新：2026-10-31（作者情報の整理）"
+    },
+    "clinics/higuchi-dental.html": {
+      "ids": [
+        "menu-toggle",
+        "site-nav",
+        "main-content"
+      ],
+      "links": [
+        "../index.html",
+        "../index.html",
+        "../about-ppp.html",
+        "../timeline.html",
+        "../quiz.html",
+        "../clinics/higuchi-dental.html",
+        "../categories/cause-removal.html",
+        "../categories/standard-care.html",
+        "../categories/advanced.html",
+        "../categories/kampo.html",
+        "../categories/complementary.html",
+        "https://higuchidc.com/",
+        "https://higuchidc.com/",
+        "https://higuchidc.com/p2.htm",
+        "https://higuchidc.com/p4.htm",
+        "../index.html",
+        "../about.html"
+      ],
+      "canonical": [
+        "https://djnaoyaman.github.io/ppp/clinics/higuchi-dental.html"
+      ],
+      "icons": [
+        "<link rel=\"icon\" href=\"../favicon.svg?v=2026-09-20\" type=\"image/svg+xml\">"
+      ],
+      "body_sha256": "f9b8dc608a870c0e99cb6de7387abaf8348a878164072bd1620219b9bed709a5",
+      "footer_update": "最終更新：2026-10-31（作者情報の整理）"
+    },
+    "treatments/apheresis.html": {
+      "ids": [
+        "menu-toggle",
+        "site-nav",
+        "today-date"
+      ],
+      "links": [
+        "../index.html",
+        "../index.html",
+        "../about-ppp.html",
+        "../timeline.html",
+        "../quiz.html",
+        "../categories/cause-removal.html",
+        "../categories/standard-care.html",
+        "../categories/advanced.html",
+        "../categories/kampo.html",
+        "../categories/complementary.html",
+        "../index.html",
+        "../categories/advanced.html",
+        "https://www.apheresis-jp.org/143294.html",
+        "https://www.jimro.co.jp/medical-product-adacolumn.php",
+        "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=201802256841004487",
+        "../treatments/hyperbaric-oxygen.html",
+        "../treatments/local-injection.html",
+        "../treatments/jak-inhibitor.html",
+        "../treatments/jak-inhibitor.html",
+        "../treatments/hyperbaric-oxygen.html",
+        "../about.html",
+        "https://ppp-community.com/"
+      ],
+      "canonical": [
+        "https://djnaoyaman.github.io/ppp/treatments/apheresis.html"
+      ],
+      "icons": [
+        "<link rel=\"icon\" href=\"../favicon.svg?v=2026-09-20\" type=\"image/svg+xml\">",
+        "<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"../apple-touch-icon.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"../icon-192.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"512x512\" href=\"../icon-512.png?v=2026-09-20\">"
+      ],
+      "body_sha256": "ead429dd385f2320a9f9efed8ff05e2ecc3dc1b071666661b7f8c9c9b77e3742",
+      "footer_update": "最終更新：2026-10-31（作者情報の整理）"
+    },
+    "treatments/oral-steroid.html": {
+      "ids": [
+        "menu-toggle",
+        "site-nav",
+        "today-date"
+      ],
+      "links": [
+        "../index.html",
+        "../index.html",
+        "../about-ppp.html",
+        "../timeline.html",
+        "../quiz.html",
+        "../categories/cause-removal.html",
+        "../categories/standard-care.html",
+        "../categories/advanced.html",
+        "../categories/kampo.html",
+        "../categories/complementary.html",
+        "../index.html",
+        "../categories/standard-care.html",
+        "https://www.saiseikai.or.jp/medical/disease/palmoplantar_pustulosis/",
+        "https://ebinahifu.com/adult/ppp/",
+        "../treatments/nsaids.html",
+        "../treatments/il23-inhibitor.html",
+        "../treatments/il17-inhibitor.html",
+        "../treatments/cyclosporine.html",
+        "../treatments/nsaids.html",
+        "../about.html",
+        "https://ppp-community.com/"
+      ],
+      "canonical": [
+        "https://djnaoyaman.github.io/ppp/treatments/oral-steroid.html"
+      ],
+      "icons": [
+        "<link rel=\"icon\" href=\"../favicon.svg?v=2026-09-20\" type=\"image/svg+xml\">",
+        "<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"../apple-touch-icon.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"../icon-192.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"512x512\" href=\"../icon-512.png?v=2026-09-20\">"
+      ],
+      "body_sha256": "78e609aa28ca9f1fb6f9da2e1f06fc935dc60650fd45754e711af5f6a1a08e72",
+      "footer_update": "最終更新：2026-10-31（作者情報の整理）"
+    },
+    "treatments/kampo-jiin.html": {
+      "ids": [
+        "menu-toggle",
+        "site-nav",
+        "today-date"
+      ],
+      "links": [
+        "../index.html",
+        "../index.html",
+        "../about-ppp.html",
+        "../timeline.html",
+        "../quiz.html",
+        "../categories/cause-removal.html",
+        "../categories/standard-care.html",
+        "../categories/advanced.html",
+        "../categories/kampo.html",
+        "../categories/complementary.html",
+        "../index.html",
+        "../categories/kampo.html",
+        "https://kampo-ikai.jp/wp-content/uploads/2011/12/2016kouenkai.pdf",
+        "../treatments/acupuncture.html",
+        "../treatments/kampo-seinetsu.html",
+        "../treatments/kampo-kuoketsu.html",
+        "../treatments/kampo-kuoketsu.html",
+        "../treatments/acupuncture.html",
+        "../about.html",
+        "https://ppp-community.com/"
+      ],
+      "canonical": [
+        "https://djnaoyaman.github.io/ppp/treatments/kampo-jiin.html"
+      ],
+      "icons": [
+        "<link rel=\"icon\" href=\"../favicon.svg?v=2026-09-20\" type=\"image/svg+xml\">",
+        "<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"../apple-touch-icon.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"../icon-192.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"512x512\" href=\"../icon-512.png?v=2026-09-20\">"
+      ],
+      "body_sha256": "ee033fa92598584e7b09bbff21436c27f4aa52b4bbb8d333e97642bec777ffe7",
+      "footer_update": "最終更新：2026-10-31（作者情報の整理）"
+    },
+    "treatments/nsaids.html": {
+      "ids": [
+        "menu-toggle",
+        "site-nav",
+        "today-date"
+      ],
+      "links": [
+        "../index.html",
+        "../index.html",
+        "../about-ppp.html",
+        "../timeline.html",
+        "../quiz.html",
+        "../categories/cause-removal.html",
+        "../categories/standard-care.html",
+        "../categories/advanced.html",
+        "../categories/kampo.html",
+        "../categories/complementary.html",
+        "../index.html",
+        "../categories/standard-care.html",
+        "https://www.saiseikai.or.jp/medical/disease/palmoplantar_pustulosis/",
+        "https://www.apheresis-jp.org/143294.html",
+        "../treatments/il23-inhibitor.html",
+        "../treatments/il17-inhibitor.html",
+        "../treatments/tnf-inhibitor.html",
+        "../treatments/oral-steroid.html",
+        "../treatments/il23-inhibitor.html",
+        "../about.html",
+        "https://ppp-community.com/"
+      ],
+      "canonical": [
+        "https://djnaoyaman.github.io/ppp/treatments/nsaids.html"
+      ],
+      "icons": [
+        "<link rel=\"icon\" href=\"../favicon.svg?v=2026-09-20\" type=\"image/svg+xml\">",
+        "<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"../apple-touch-icon.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"../icon-192.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"512x512\" href=\"../icon-512.png?v=2026-09-20\">"
+      ],
+      "body_sha256": "f6e269018120c832d2247287fd8f13cd5f4dd092a49bca85ebf9f33e83eed48e",
+      "footer_update": "最終更新：2026-10-31（作者情報の整理）"
+    },
+    "treatments/ibd-comorbidity.html": {
+      "ids": [
+        "menu-toggle",
+        "site-nav",
+        "today-date"
+      ],
+      "links": [
+        "../index.html",
+        "../index.html",
+        "../about-ppp.html",
+        "../timeline.html",
+        "../quiz.html",
+        "../categories/cause-removal.html",
+        "../categories/standard-care.html",
+        "../categories/advanced.html",
+        "../categories/kampo.html",
+        "../categories/complementary.html",
+        "../index.html",
+        "../categories/cause-removal.html",
+        "https://www.apheresis-jp.org/143294.html",
+        "https://www.kansennet.jp/ppp/disease/etiology.html",
+        "https://www.da.abbvie.co.jp/ppp/therapies.html",
+        "../treatments/smoking-cessation.html",
+        "../treatments/tonsillectomy.html",
+        "../treatments/dental-focal-infection.html",
+        "../treatments/metal-allergy.html",
+        "../treatments/topical-steroid.html",
+        "../about.html",
+        "https://ppp-community.com/"
+      ],
+      "canonical": [
+        "https://djnaoyaman.github.io/ppp/treatments/ibd-comorbidity.html"
+      ],
+      "icons": [
+        "<link rel=\"icon\" href=\"../favicon.svg?v=2026-09-20\" type=\"image/svg+xml\">",
+        "<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"../apple-touch-icon.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"../icon-192.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"512x512\" href=\"../icon-512.png?v=2026-09-20\">"
+      ],
+      "body_sha256": "770884b0ae03b5edd60be99613387f5486626bbf76ac81428f1b32925d63919e",
+      "footer_update": "最終更新：2026-10-31（作者情報の整理）"
+    },
+    "treatments/dental-focal-infection.html": {
+      "ids": [
+        "menu-toggle",
+        "site-nav",
+        "today-date"
+      ],
+      "links": [
+        "../index.html",
+        "../index.html",
+        "../about-ppp.html",
+        "../timeline.html",
+        "../quiz.html",
+        "../categories/cause-removal.html",
+        "../categories/standard-care.html",
+        "../categories/advanced.html",
+        "../categories/kampo.html",
+        "../categories/complementary.html",
+        "../index.html",
+        "../categories/cause-removal.html",
+        "https://ir.tdc.ac.jp/irucaa/bitstream/10130/646/1/108_431.pdf",
+        "https://www.kansennet.jp/ppp/qa/know/01.html",
+        "https://www.kansennet.jp/ppp/disease/etiology.html",
+        "../treatments/eat-therapy.html",
+        "../treatments/metal-allergy.html",
+        "../treatments/ibd-comorbidity.html",
+        "../treatments/tonsillectomy.html",
+        "../treatments/eat-therapy.html",
+        "../about.html",
+        "https://ppp-community.com/"
+      ],
+      "canonical": [
+        "https://djnaoyaman.github.io/ppp/treatments/dental-focal-infection.html"
+      ],
+      "icons": [
+        "<link rel=\"icon\" href=\"../favicon.svg?v=2026-09-20\" type=\"image/svg+xml\">",
+        "<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"../apple-touch-icon.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"../icon-192.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"512x512\" href=\"../icon-512.png?v=2026-09-20\">"
+      ],
+      "body_sha256": "a1a54c82319335afabfd189472c3ff2bc148aa0ec0693525313b9c3c80d08137",
+      "footer_update": "最終更新：2026-10-31（作者情報の整理）"
+    },
+    "treatments/kampo-seinetsu.html": {
+      "ids": [
+        "menu-toggle",
+        "site-nav",
+        "today-date"
+      ],
+      "links": [
+        "../index.html",
+        "../index.html",
+        "../about-ppp.html",
+        "../timeline.html",
+        "../quiz.html",
+        "../categories/cause-removal.html",
+        "../categories/standard-care.html",
+        "../categories/advanced.html",
+        "../categories/kampo.html",
+        "../categories/complementary.html",
+        "../index.html",
+        "../categories/kampo.html",
+        "https://www.radionikkei.jp/kampotoday/docs/kampo-090520.pdf",
+        "https://kampo-ikai.jp/wp-content/uploads/2011/12/2016kouenkai.pdf",
+        "../treatments/kampo-kuoketsu.html",
+        "../treatments/kampo-jiin.html",
+        "../treatments/acupuncture.html",
+        "../treatments/local-injection.html",
+        "../treatments/kampo-kuoketsu.html",
+        "../about.html",
+        "https://ppp-community.com/"
+      ],
+      "canonical": [
+        "https://djnaoyaman.github.io/ppp/treatments/kampo-seinetsu.html"
+      ],
+      "icons": [
+        "<link rel=\"icon\" href=\"../favicon.svg?v=2026-09-20\" type=\"image/svg+xml\">",
+        "<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"../apple-touch-icon.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"../icon-192.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"512x512\" href=\"../icon-512.png?v=2026-09-20\">"
+      ],
+      "body_sha256": "ef56e329656343d67b7e1bb82c6e1ae8e5bc280557cc87f47c31e4447a28dea0",
+      "footer_update": "最終更新：2026-10-31（作者情報の整理）"
+    },
+    "treatments/il23-inhibitor.html": {
+      "ids": [
+        "menu-toggle",
+        "site-nav",
+        "today-date"
+      ],
+      "links": [
+        "../index.html",
+        "../index.html",
+        "../about-ppp.html",
+        "../timeline.html",
+        "../quiz.html",
+        "../categories/cause-removal.html",
+        "../categories/standard-care.html",
+        "../categories/advanced.html",
+        "../categories/kampo.html",
+        "../categories/complementary.html",
+        "../index.html",
+        "../categories/standard-care.html",
+        "https://www.carenet.com/news/general/carenet/48418",
+        "https://www.jnj.com/innovativemedicine/japan/press-release/20180910",
+        "https://webview.isho.jp/journal/detail/abs/10.11477/mf.1412205742",
+        "../treatments/il17-inhibitor.html",
+        "../treatments/tnf-inhibitor.html",
+        "../treatments/topical-steroid.html",
+        "../treatments/nsaids.html",
+        "../treatments/il17-inhibitor.html",
+        "../about.html",
+        "https://ppp-community.com/"
+      ],
+      "canonical": [
+        "https://djnaoyaman.github.io/ppp/treatments/il23-inhibitor.html"
+      ],
+      "icons": [
+        "<link rel=\"icon\" href=\"../favicon.svg?v=2026-09-20\" type=\"image/svg+xml\">",
+        "<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"../apple-touch-icon.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"../icon-192.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"512x512\" href=\"../icon-512.png?v=2026-09-20\">"
+      ],
+      "body_sha256": "557b6e0cee551a21b7d7420f6f837fed4ae841341db387b2fdf96be14682e09d",
+      "footer_update": "最終更新：2026-10-31（作者情報の整理）"
+    },
+    "treatments/topical-combination.html": {
+      "ids": [
+        "menu-toggle",
+        "site-nav",
+        "today-date"
+      ],
+      "links": [
+        "../index.html",
+        "../index.html",
+        "../about-ppp.html",
+        "../timeline.html",
+        "../quiz.html",
+        "../categories/cause-removal.html",
+        "../categories/standard-care.html",
+        "../categories/advanced.html",
+        "../categories/kampo.html",
+        "../categories/complementary.html",
+        "../index.html",
+        "../categories/standard-care.html",
+        "https://www.saiseikai.or.jp/medical/disease/palmoplantar_pustulosis/",
+        "https://www.da.abbvie.co.jp/ppp/therapies.html",
+        "../treatments/moisturizer-barrier.html",
+        "../treatments/nbuvb.html",
+        "../treatments/excimer.html",
+        "../treatments/topical-vitd3.html",
+        "../treatments/moisturizer-barrier.html",
+        "../about.html",
+        "https://ppp-community.com/"
+      ],
+      "canonical": [
+        "https://djnaoyaman.github.io/ppp/treatments/topical-combination.html"
+      ],
+      "icons": [
+        "<link rel=\"icon\" href=\"../favicon.svg?v=2026-09-20\" type=\"image/svg+xml\">",
+        "<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"../apple-touch-icon.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"../icon-192.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"512x512\" href=\"../icon-512.png?v=2026-09-20\">"
+      ],
+      "body_sha256": "0984b98be0a9a0f9a0683eb0bef418fdb7eaa931e4ca88bbffefac77d8d8fbae",
+      "footer_update": "最終更新：2026-10-31（作者情報の整理）"
+    },
+    "treatments/tnf-inhibitor.html": {
+      "ids": [
+        "menu-toggle",
+        "site-nav",
+        "today-date"
+      ],
+      "links": [
+        "../index.html",
+        "../index.html",
+        "../about-ppp.html",
+        "../timeline.html",
+        "../quiz.html",
+        "../categories/cause-removal.html",
+        "../categories/standard-care.html",
+        "../categories/advanced.html",
+        "../categories/kampo.html",
+        "../categories/complementary.html",
+        "../index.html",
+        "../categories/standard-care.html",
+        "https://www.qlifepro.com/news/20181212/biological-preparation-for-palmoplantar-pustulosis.html",
+        "https://www.dermatol.or.jp/uploads/uploads/files/news/J20190219_gaid.pdf",
+        "../treatments/topical-steroid.html",
+        "../treatments/topical-vitd3.html",
+        "../treatments/topical-combination.html",
+        "../treatments/il17-inhibitor.html",
+        "../treatments/jak-inhibitor.html",
+        "../about.html",
+        "https://ppp-community.com/"
+      ],
+      "canonical": [
+        "https://djnaoyaman.github.io/ppp/treatments/tnf-inhibitor.html"
+      ],
+      "icons": [
+        "<link rel=\"icon\" href=\"../favicon.svg?v=2026-09-20\" type=\"image/svg+xml\">",
+        "<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"../apple-touch-icon.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"../icon-192.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"512x512\" href=\"../icon-512.png?v=2026-09-20\">"
+      ],
+      "body_sha256": "7524f91cebbaef79f1c9d2c5001efb925974400dc62977c8b86d56034b06818a",
+      "footer_update": "最終更新：2026-10-31（作者情報の整理）"
+    },
+    "treatments/moisturizer-barrier.html": {
+      "ids": [
+        "menu-toggle",
+        "site-nav",
+        "today-date"
+      ],
+      "links": [
+        "../index.html",
+        "../index.html",
+        "../about-ppp.html",
+        "../timeline.html",
+        "../quiz.html",
+        "../categories/cause-removal.html",
+        "../categories/standard-care.html",
+        "../categories/advanced.html",
+        "../categories/kampo.html",
+        "../categories/complementary.html",
+        "../index.html",
+        "../categories/standard-care.html",
+        "https://www.da.abbvie.co.jp/ppp/therapies.html",
+        "https://www.saiseikai.or.jp/medical/disease/palmoplantar_pustulosis/",
+        "../treatments/nbuvb.html",
+        "../treatments/excimer.html",
+        "../treatments/puva.html",
+        "../treatments/topical-combination.html",
+        "../treatments/nbuvb.html",
+        "../about.html",
+        "https://ppp-community.com/"
+      ],
+      "canonical": [
+        "https://djnaoyaman.github.io/ppp/treatments/moisturizer-barrier.html"
+      ],
+      "icons": [
+        "<link rel=\"icon\" href=\"../favicon.svg?v=2026-09-20\" type=\"image/svg+xml\">",
+        "<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"../apple-touch-icon.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"../icon-192.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"512x512\" href=\"../icon-512.png?v=2026-09-20\">"
+      ],
+      "body_sha256": "feada97af95c51d7245b32145c0ef4cebebec89874f5e357af4050c078beb6d6",
+      "footer_update": "最終更新：2026-10-31（作者情報の整理）"
+    },
+    "treatments/topical-vitd3.html": {
+      "ids": [
+        "menu-toggle",
+        "site-nav",
+        "today-date"
+      ],
+      "links": [
+        "../index.html",
+        "../index.html",
+        "../about-ppp.html",
+        "../timeline.html",
+        "../quiz.html",
+        "../categories/cause-removal.html",
+        "../categories/standard-care.html",
+        "../categories/advanced.html",
+        "../categories/kampo.html",
+        "../categories/complementary.html",
+        "../index.html",
+        "../categories/standard-care.html",
+        "https://www.saiseikai.or.jp/medical/disease/palmoplantar_pustulosis/",
+        "https://www.da.abbvie.co.jp/ppp/therapies.html",
+        "https://iwakura-kibo-clinic.com/dermatology/ppp/",
+        "../treatments/topical-combination.html",
+        "../treatments/moisturizer-barrier.html",
+        "../treatments/nbuvb.html",
+        "../treatments/topical-steroid.html",
+        "../treatments/topical-combination.html",
+        "../about.html",
+        "https://ppp-community.com/"
+      ],
+      "canonical": [
+        "https://djnaoyaman.github.io/ppp/treatments/topical-vitd3.html"
+      ],
+      "icons": [
+        "<link rel=\"icon\" href=\"../favicon.svg?v=2026-09-20\" type=\"image/svg+xml\">",
+        "<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"../apple-touch-icon.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"../icon-192.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"512x512\" href=\"../icon-512.png?v=2026-09-20\">"
+      ],
+      "body_sha256": "676b4ef0f6d45057f8bec24e72684c77aa8061f885900c3ba7abcb7b658ff28b",
+      "footer_update": "最終更新：2026-10-31（作者情報の整理）"
+    },
+    "treatments/local-injection.html": {
+      "ids": [
+        "menu-toggle",
+        "site-nav",
+        "today-date"
+      ],
+      "links": [
+        "../index.html",
+        "../index.html",
+        "../about-ppp.html",
+        "../timeline.html",
+        "../quiz.html",
+        "../categories/cause-removal.html",
+        "../categories/standard-care.html",
+        "../categories/advanced.html",
+        "../categories/kampo.html",
+        "../categories/complementary.html",
+        "../index.html",
+        "../categories/advanced.html",
+        "https://www.apheresis-jp.org/143294.html",
+        "https://www.saiseikai.or.jp/medical/disease/palmoplantar_pustulosis/",
+        "../treatments/jak-inhibitor.html",
+        "../treatments/apheresis.html",
+        "../treatments/hyperbaric-oxygen.html",
+        "../treatments/hyperbaric-oxygen.html",
+        "../treatments/kampo-seinetsu.html",
+        "../about.html",
+        "https://ppp-community.com/"
+      ],
+      "canonical": [
+        "https://djnaoyaman.github.io/ppp/treatments/local-injection.html"
+      ],
+      "icons": [
+        "<link rel=\"icon\" href=\"../favicon.svg?v=2026-09-20\" type=\"image/svg+xml\">",
+        "<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"../apple-touch-icon.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"../icon-192.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"512x512\" href=\"../icon-512.png?v=2026-09-20\">"
+      ],
+      "body_sha256": "33354a7f2a6ebf1af8dc156a24782829623ffa36774db2b3edeafcac862e6be0",
+      "footer_update": "最終更新：2026-10-31（作者情報の整理）"
+    },
+    "treatments/eat-therapy.html": {
+      "ids": [
+        "menu-toggle",
+        "site-nav",
+        "today-date"
+      ],
+      "links": [
+        "../index.html",
+        "../index.html",
+        "../about-ppp.html",
+        "../timeline.html",
+        "../quiz.html",
+        "../categories/cause-removal.html",
+        "../categories/standard-care.html",
+        "../categories/advanced.html",
+        "../categories/kampo.html",
+        "../categories/complementary.html",
+        "../index.html",
+        "../categories/cause-removal.html",
+        "https://www.da.abbvie.co.jp/ppp/therapies.html",
+        "https://www.kansennet.jp/ppp/treatment/factor.html",
+        "../treatments/metal-allergy.html",
+        "../treatments/ibd-comorbidity.html",
+        "../treatments/smoking-cessation.html",
+        "../treatments/dental-focal-infection.html",
+        "../treatments/metal-allergy.html",
+        "../about.html",
+        "https://ppp-community.com/"
+      ],
+      "canonical": [
+        "https://djnaoyaman.github.io/ppp/treatments/eat-therapy.html"
+      ],
+      "icons": [
+        "<link rel=\"icon\" href=\"../favicon.svg?v=2026-09-20\" type=\"image/svg+xml\">",
+        "<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"../apple-touch-icon.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"../icon-192.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"512x512\" href=\"../icon-512.png?v=2026-09-20\">"
+      ],
+      "body_sha256": "4580f97f873a7e2bbd7dc3617e1cbe0c2acbceefa26fdb3354846e206bc95d19",
+      "footer_update": "最終更新：2026-10-31（作者情報の整理）"
+    },
+    "treatments/tonsillectomy.html": {
+      "ids": [
+        "menu-toggle",
+        "site-nav",
+        "today-date"
+      ],
+      "links": [
+        "../index.html",
+        "../index.html",
+        "../about-ppp.html",
+        "../timeline.html",
+        "../quiz.html",
+        "../categories/cause-removal.html",
+        "../categories/standard-care.html",
+        "../categories/advanced.html",
+        "../categories/kampo.html",
+        "../categories/complementary.html",
+        "../index.html",
+        "../categories/cause-removal.html",
+        "https://webview.isho.jp/journal/detail/abs/10.11477/mf.091434910970050117",
+        "https://www.jstage.jst.go.jp/article/jibiinkoka1947/97/9/97_9_1621/_article/-char/ja/",
+        "https://mirai-iryou.com/2018/07/04/ppp_tonsilitis/",
+        "../treatments/dental-focal-infection.html",
+        "../treatments/eat-therapy.html",
+        "../treatments/metal-allergy.html",
+        "../treatments/smoking-cessation.html",
+        "../treatments/dental-focal-infection.html",
+        "../about.html",
+        "https://ppp-community.com/"
+      ],
+      "canonical": [
+        "https://djnaoyaman.github.io/ppp/treatments/tonsillectomy.html"
+      ],
+      "icons": [
+        "<link rel=\"icon\" href=\"../favicon.svg?v=2026-09-20\" type=\"image/svg+xml\">",
+        "<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"../apple-touch-icon.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"../icon-192.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"512x512\" href=\"../icon-512.png?v=2026-09-20\">"
+      ],
+      "body_sha256": "2792ce584f2cc6d7449611f7ad7bf7d92e0fee72b248e5afcbd3352ff2e54d1c",
+      "footer_update": "最終更新：2026-10-31（作者情報の整理）"
+    },
+    "treatments/jak-inhibitor.html": {
+      "ids": [
+        "menu-toggle",
+        "site-nav",
+        "today-date"
+      ],
+      "links": [
+        "../index.html",
+        "../index.html",
+        "../about-ppp.html",
+        "../timeline.html",
+        "../quiz.html",
+        "../categories/cause-removal.html",
+        "../categories/standard-care.html",
+        "../categories/advanced.html",
+        "../categories/kampo.html",
+        "../categories/complementary.html",
+        "../index.html",
+        "../categories/advanced.html",
+        "https://www.dermatol.or.jp/uploads/uploads/files/guideline/hif01-04_guidance.pdf",
+        "https://www.dermatol.or.jp/uploads/uploads/files/news/J20190219_gaid.pdf",
+        "../treatments/apheresis.html",
+        "../treatments/hyperbaric-oxygen.html",
+        "../treatments/local-injection.html",
+        "../treatments/tnf-inhibitor.html",
+        "../treatments/apheresis.html",
+        "../about.html",
+        "https://ppp-community.com/"
+      ],
+      "canonical": [
+        "https://djnaoyaman.github.io/ppp/treatments/jak-inhibitor.html"
+      ],
+      "icons": [
+        "<link rel=\"icon\" href=\"../favicon.svg?v=2026-09-20\" type=\"image/svg+xml\">",
+        "<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"../apple-touch-icon.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"../icon-192.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"512x512\" href=\"../icon-512.png?v=2026-09-20\">"
+      ],
+      "body_sha256": "0f6efb3d6848ab0b354c8468ed01e63e8ae1366ab714ff7bb086a0fc66b0e29c",
+      "footer_update": "最終更新：2026-10-31（作者情報の整理）"
+    },
+    "treatments/etretinate.html": {
+      "ids": [
+        "menu-toggle",
+        "site-nav",
+        "today-date"
+      ],
+      "links": [
+        "../index.html",
+        "../index.html",
+        "../about-ppp.html",
+        "../timeline.html",
+        "../quiz.html",
+        "../categories/cause-removal.html",
+        "../categories/standard-care.html",
+        "../categories/advanced.html",
+        "../categories/kampo.html",
+        "../categories/complementary.html",
+        "../index.html",
+        "../categories/standard-care.html",
+        "https://www.saiseikai.or.jp/medical/disease/palmoplantar_pustulosis/",
+        "https://passmed.co.jp/di/archives/818",
+        "https://ebinahifu.com/adult/ppp/",
+        "../treatments/apremilast.html",
+        "../treatments/cyclosporine.html",
+        "../treatments/oral-steroid.html",
+        "../treatments/biotin-oral.html",
+        "../treatments/apremilast.html",
+        "../about.html",
+        "https://ppp-community.com/"
+      ],
+      "canonical": [
+        "https://djnaoyaman.github.io/ppp/treatments/etretinate.html"
+      ],
+      "icons": [
+        "<link rel=\"icon\" href=\"../favicon.svg?v=2026-09-20\" type=\"image/svg+xml\">",
+        "<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"../apple-touch-icon.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"../icon-192.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"512x512\" href=\"../icon-512.png?v=2026-09-20\">"
+      ],
+      "body_sha256": "c681353a9d5f867a31ea96440f1d9203e03a4bff8ec265e5f0f49a77fe013b01",
+      "footer_update": "最終更新：2026-10-31（作者情報の整理）"
+    },
+    "treatments/hyperbaric-oxygen.html": {
+      "ids": [
+        "menu-toggle",
+        "site-nav",
+        "today-date"
+      ],
+      "links": [
+        "../index.html",
+        "../index.html",
+        "../about-ppp.html",
+        "../timeline.html",
+        "../quiz.html",
+        "../categories/cause-removal.html",
+        "../categories/standard-care.html",
+        "../categories/advanced.html",
+        "../categories/kampo.html",
+        "../categories/complementary.html",
+        "../index.html",
+        "../categories/advanced.html",
+        "https://www.apheresis-jp.org/143294.html",
+        "../treatments/local-injection.html",
+        "../treatments/jak-inhibitor.html",
+        "../treatments/apheresis.html",
+        "../treatments/apheresis.html",
+        "../treatments/local-injection.html",
+        "../about.html",
+        "https://ppp-community.com/"
+      ],
+      "canonical": [
+        "https://djnaoyaman.github.io/ppp/treatments/hyperbaric-oxygen.html"
+      ],
+      "icons": [
+        "<link rel=\"icon\" href=\"../favicon.svg?v=2026-09-20\" type=\"image/svg+xml\">",
+        "<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"../apple-touch-icon.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"../icon-192.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"512x512\" href=\"../icon-512.png?v=2026-09-20\">"
+      ],
+      "body_sha256": "e0ee985eefb7b13f078cbf77dff5f40d6cb381fe5d25ae78bd2af2d29f2e3bf0",
+      "footer_update": "最終更新：2026-10-31（作者情報の整理）"
+    },
+    "treatments/apremilast.html": {
+      "ids": [
+        "menu-toggle",
+        "site-nav",
+        "today-date"
+      ],
+      "links": [
+        "../index.html",
+        "../index.html",
+        "../about-ppp.html",
+        "../timeline.html",
+        "../quiz.html",
+        "../categories/cause-removal.html",
+        "../categories/standard-care.html",
+        "../categories/advanced.html",
+        "../categories/kampo.html",
+        "../categories/complementary.html",
+        "../index.html",
+        "../categories/standard-care.html",
+        "https://www.amgen.co.jp/media/press-releases/2025/03/20250327",
+        "https://passmed.co.jp/di/archives/818",
+        "https://www.kegg.jp/medicus-bin/japic_med?japic_code=00066595",
+        "../treatments/cyclosporine.html",
+        "../treatments/oral-steroid.html",
+        "../treatments/nsaids.html",
+        "../treatments/etretinate.html",
+        "../treatments/cyclosporine.html",
+        "../about.html",
+        "https://ppp-community.com/"
+      ],
+      "canonical": [
+        "https://djnaoyaman.github.io/ppp/treatments/apremilast.html"
+      ],
+      "icons": [
+        "<link rel=\"icon\" href=\"../favicon.svg?v=2026-09-20\" type=\"image/svg+xml\">",
+        "<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"../apple-touch-icon.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"../icon-192.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"512x512\" href=\"../icon-512.png?v=2026-09-20\">"
+      ],
+      "body_sha256": "7af5aed44a09fcffbf8b4fd3f8cae41e91e66f2bfa39491bb45e534614096017",
+      "footer_update": "最終更新：2026-10-31（作者情報の整理）"
+    },
+    "treatments/nbuvb.html": {
+      "ids": [
+        "menu-toggle",
+        "site-nav",
+        "today-date"
+      ],
+      "links": [
+        "../index.html",
+        "../index.html",
+        "../about-ppp.html",
+        "../timeline.html",
+        "../quiz.html",
+        "../categories/cause-removal.html",
+        "../categories/standard-care.html",
+        "../categories/advanced.html",
+        "../categories/kampo.html",
+        "../categories/complementary.html",
+        "../index.html",
+        "../categories/standard-care.html",
+        "https://kawai-hifuka.jp/medical/narrowband-uvb",
+        "https://iwakura-kibo-clinic.com/dermatology/ppp/",
+        "../treatments/excimer.html",
+        "../treatments/puva.html",
+        "../treatments/biotin-oral.html",
+        "../treatments/moisturizer-barrier.html",
+        "../treatments/excimer.html",
+        "../about.html",
+        "https://ppp-community.com/"
+      ],
+      "canonical": [
+        "https://djnaoyaman.github.io/ppp/treatments/nbuvb.html"
+      ],
+      "icons": [
+        "<link rel=\"icon\" href=\"../favicon.svg?v=2026-09-20\" type=\"image/svg+xml\">",
+        "<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"../apple-touch-icon.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"../icon-192.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"512x512\" href=\"../icon-512.png?v=2026-09-20\">"
+      ],
+      "body_sha256": "c71336e37ebb4fb7c1b86ea7107ac7dd482080f4c20770a61a70fa881541a2c9",
+      "footer_update": "最終更新：2026-10-31（作者情報の整理）"
+    },
+    "treatments/smoking-cessation.html": {
+      "ids": [
+        "menu-toggle",
+        "site-nav",
+        "today-date"
+      ],
+      "links": [
+        "../index.html",
+        "../index.html",
+        "../about-ppp.html",
+        "../timeline.html",
+        "../quiz.html",
+        "../categories/cause-removal.html",
+        "../categories/standard-care.html",
+        "../categories/advanced.html",
+        "../categories/kampo.html",
+        "../categories/complementary.html",
+        "../index.html",
+        "../categories/cause-removal.html",
+        "https://www.kansennet.jp/ppp/treatment/factor.html",
+        "https://www.jmedj.co.jp/journal/paper/detail.php?id=3442",
+        "https://news.yahoo.co.jp/expert/articles/007d2483a379b455a07453331da5b18f2a8c7654",
+        "../treatments/tonsillectomy.html",
+        "../treatments/dental-focal-infection.html",
+        "../treatments/eat-therapy.html",
+        "../treatments/tonsillectomy.html",
+        "../about.html",
+        "https://ppp-community.com/"
+      ],
+      "canonical": [
+        "https://djnaoyaman.github.io/ppp/treatments/smoking-cessation.html"
+      ],
+      "icons": [
+        "<link rel=\"icon\" href=\"../favicon.svg?v=2026-09-20\" type=\"image/svg+xml\">",
+        "<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"../apple-touch-icon.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"../icon-192.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"512x512\" href=\"../icon-512.png?v=2026-09-20\">"
+      ],
+      "body_sha256": "40db1394b303689564d639fa5dfbda93ea5fda86bd35e68e82914e68c671a753",
+      "footer_update": "最終更新：2026-10-31（作者情報の整理）"
+    },
+    "treatments/kampo-kuoketsu.html": {
+      "ids": [
+        "menu-toggle",
+        "site-nav",
+        "today-date"
+      ],
+      "links": [
+        "../index.html",
+        "../index.html",
+        "../about-ppp.html",
+        "../timeline.html",
+        "../quiz.html",
+        "../categories/cause-removal.html",
+        "../categories/standard-care.html",
+        "../categories/advanced.html",
+        "../categories/kampo.html",
+        "../categories/complementary.html",
+        "../index.html",
+        "../categories/kampo.html",
+        "https://kampo-ikai.jp/wp-content/uploads/2011/12/2016kouenkai.pdf",
+        "../treatments/kampo-jiin.html",
+        "../treatments/acupuncture.html",
+        "../treatments/kampo-seinetsu.html",
+        "../treatments/kampo-seinetsu.html",
+        "../treatments/kampo-jiin.html",
+        "../about.html",
+        "https://ppp-community.com/"
+      ],
+      "canonical": [
+        "https://djnaoyaman.github.io/ppp/treatments/kampo-kuoketsu.html"
+      ],
+      "icons": [
+        "<link rel=\"icon\" href=\"../favicon.svg?v=2026-09-20\" type=\"image/svg+xml\">",
+        "<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"../apple-touch-icon.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"../icon-192.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"512x512\" href=\"../icon-512.png?v=2026-09-20\">"
+      ],
+      "body_sha256": "5644fcc5e2d4ff6c7d88f02f5950586596d9ffaeaed440762cfeded2dca5b996",
+      "footer_update": "最終更新：2026-10-31（作者情報の整理）"
+    },
+    "treatments/excimer.html": {
+      "ids": [
+        "menu-toggle",
+        "site-nav",
+        "today-date"
+      ],
+      "links": [
+        "../index.html",
+        "../index.html",
+        "../about-ppp.html",
+        "../timeline.html",
+        "../quiz.html",
+        "../categories/cause-removal.html",
+        "../categories/standard-care.html",
+        "../categories/advanced.html",
+        "../categories/kampo.html",
+        "../categories/complementary.html",
+        "../index.html",
+        "../categories/standard-care.html",
+        "https://kawai-hifuka.jp/medical/narrowband-uvb",
+        "https://iwakura-kibo-clinic.com/dermatology/ppp/",
+        "../treatments/puva.html",
+        "../treatments/biotin-oral.html",
+        "../treatments/etretinate.html",
+        "../treatments/nbuvb.html",
+        "../treatments/puva.html",
+        "../about.html",
+        "https://ppp-community.com/"
+      ],
+      "canonical": [
+        "https://djnaoyaman.github.io/ppp/treatments/excimer.html"
+      ],
+      "icons": [
+        "<link rel=\"icon\" href=\"../favicon.svg?v=2026-09-20\" type=\"image/svg+xml\">",
+        "<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"../apple-touch-icon.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"../icon-192.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"512x512\" href=\"../icon-512.png?v=2026-09-20\">"
+      ],
+      "body_sha256": "8a76c1c5b4f091642b1a8bdd46fb1f27ef32a5022d882ccf87d1b8c065dd99bf",
+      "footer_update": "最終更新：2026-10-31（作者情報の整理）"
+    },
+    "treatments/topical-steroid.html": {
+      "ids": [
+        "menu-toggle",
+        "site-nav",
+        "today-date"
+      ],
+      "links": [
+        "../index.html",
+        "../index.html",
+        "../about-ppp.html",
+        "../timeline.html",
+        "../quiz.html",
+        "../categories/cause-removal.html",
+        "../categories/standard-care.html",
+        "../categories/advanced.html",
+        "../categories/kampo.html",
+        "../categories/complementary.html",
+        "../index.html",
+        "../categories/standard-care.html",
+        "https://www.saiseikai.or.jp/medical/disease/palmoplantar_pustulosis/",
+        "https://www.da.abbvie.co.jp/ppp/therapies.html",
+        "https://ebinahifu.com/adult/ppp/",
+        "https://ubie.app/byoki_qa/clinical-questions/zkttz6rquvc2",
+        "../treatments/topical-vitd3.html",
+        "../treatments/topical-combination.html",
+        "../treatments/moisturizer-barrier.html",
+        "../treatments/ibd-comorbidity.html",
+        "../treatments/topical-vitd3.html",
+        "../about.html",
+        "https://ppp-community.com/"
+      ],
+      "canonical": [
+        "https://djnaoyaman.github.io/ppp/treatments/topical-steroid.html"
+      ],
+      "icons": [
+        "<link rel=\"icon\" href=\"../favicon.svg?v=2026-09-20\" type=\"image/svg+xml\">",
+        "<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"../apple-touch-icon.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"../icon-192.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"512x512\" href=\"../icon-512.png?v=2026-09-20\">"
+      ],
+      "body_sha256": "7bf98a6bc959b6aec0fca37f806fcb6bcfe3d4f405e236673caf5dcc5bc8649a",
+      "footer_update": "最終更新：2026-10-31（作者情報の整理）"
+    },
+    "treatments/metal-allergy.html": {
+      "ids": [
+        "menu-toggle",
+        "site-nav",
+        "today-date"
+      ],
+      "links": [
+        "../index.html",
+        "../index.html",
+        "../about-ppp.html",
+        "../timeline.html",
+        "../quiz.html",
+        "../categories/cause-removal.html",
+        "../categories/standard-care.html",
+        "../categories/advanced.html",
+        "../categories/kampo.html",
+        "../categories/complementary.html",
+        "../index.html",
+        "../categories/cause-removal.html",
+        "https://webview.isho.jp/journal/detail/abs/10.11477/mf.1412206022",
+        "https://kasumori-oshimura.com/metal/",
+        "https://mirai-iryou.com/2018/07/04/ppp_tonsilitis/",
+        "../treatments/ibd-comorbidity.html",
+        "../treatments/smoking-cessation.html",
+        "../treatments/tonsillectomy.html",
+        "../treatments/eat-therapy.html",
+        "../treatments/ibd-comorbidity.html",
+        "../about.html",
+        "https://ppp-community.com/"
+      ],
+      "canonical": [
+        "https://djnaoyaman.github.io/ppp/treatments/metal-allergy.html"
+      ],
+      "icons": [
+        "<link rel=\"icon\" href=\"../favicon.svg?v=2026-09-20\" type=\"image/svg+xml\">",
+        "<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"../apple-touch-icon.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"../icon-192.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"512x512\" href=\"../icon-512.png?v=2026-09-20\">"
+      ],
+      "body_sha256": "cb25bdcc2edf9c3a893c3c49d0ba578752257a9e73ccb9624c16477c9bc0d11b",
+      "footer_update": "最終更新：2026-10-31（作者情報の整理）"
+    },
+    "treatments/puva.html": {
+      "ids": [
+        "menu-toggle",
+        "site-nav",
+        "today-date"
+      ],
+      "links": [
+        "../index.html",
+        "../index.html",
+        "../about-ppp.html",
+        "../timeline.html",
+        "../quiz.html",
+        "../categories/cause-removal.html",
+        "../categories/standard-care.html",
+        "../categories/advanced.html",
+        "../categories/kampo.html",
+        "../categories/complementary.html",
+        "../index.html",
+        "../categories/standard-care.html",
+        "https://www.apheresis-jp.org/143294.html",
+        "https://iwakura-kibo-clinic.com/dermatology/ppp/",
+        "../treatments/biotin-oral.html",
+        "../treatments/etretinate.html",
+        "../treatments/apremilast.html",
+        "../treatments/excimer.html",
+        "../treatments/biotin-oral.html",
+        "../about.html",
+        "https://ppp-community.com/"
+      ],
+      "canonical": [
+        "https://djnaoyaman.github.io/ppp/treatments/puva.html"
+      ],
+      "icons": [
+        "<link rel=\"icon\" href=\"../favicon.svg?v=2026-09-20\" type=\"image/svg+xml\">",
+        "<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"../apple-touch-icon.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"../icon-192.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"512x512\" href=\"../icon-512.png?v=2026-09-20\">"
+      ],
+      "body_sha256": "8959bcd4116d87f24bf29224537ec219eb597a168919e6ae274fb28043fa84f4",
+      "footer_update": "最終更新：2026-10-31（作者情報の整理）"
+    },
+    "treatments/il17-inhibitor.html": {
+      "ids": [
+        "menu-toggle",
+        "site-nav",
+        "today-date"
+      ],
+      "links": [
+        "../index.html",
+        "../index.html",
+        "../about-ppp.html",
+        "../timeline.html",
+        "../quiz.html",
+        "../categories/cause-removal.html",
+        "../categories/standard-care.html",
+        "../categories/advanced.html",
+        "../categories/kampo.html",
+        "../categories/complementary.html",
+        "../index.html",
+        "../categories/standard-care.html",
+        "https://www.dermatol.or.jp/uploads/uploads/files/news/J20190219_gaid.pdf",
+        "https://webview.isho.jp/journal/detail/abs/10.11477/mf.1412205742",
+        "../treatments/tnf-inhibitor.html",
+        "../treatments/topical-steroid.html",
+        "../treatments/topical-vitd3.html",
+        "../treatments/il23-inhibitor.html",
+        "../treatments/tnf-inhibitor.html",
+        "../about.html",
+        "https://ppp-community.com/"
+      ],
+      "canonical": [
+        "https://djnaoyaman.github.io/ppp/treatments/il17-inhibitor.html"
+      ],
+      "icons": [
+        "<link rel=\"icon\" href=\"../favicon.svg?v=2026-09-20\" type=\"image/svg+xml\">",
+        "<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"../apple-touch-icon.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"../icon-192.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"512x512\" href=\"../icon-512.png?v=2026-09-20\">"
+      ],
+      "body_sha256": "89a875feed432e31dbab345e96c57663766a21ae011bcd776d450d014765e514",
+      "footer_update": "最終更新：2026-10-31（作者情報の整理）"
+    },
+    "treatments/biotin-oral.html": {
+      "ids": [
+        "menu-toggle",
+        "site-nav",
+        "today-date"
+      ],
+      "links": [
+        "../index.html",
+        "../index.html",
+        "../about-ppp.html",
+        "../timeline.html",
+        "../quiz.html",
+        "../categories/cause-removal.html",
+        "../categories/standard-care.html",
+        "../categories/advanced.html",
+        "../categories/kampo.html",
+        "../categories/complementary.html",
+        "../index.html",
+        "../categories/standard-care.html",
+        "https://ir.tdc.ac.jp/irucaa/bitstream/10130/646/1/108_431.pdf",
+        "https://medical.nikkeibp.co.jp/leaf/all/di/digital/201503/541018.html",
+        "https://mirai-iryou.com/2018/07/04/ppp_tonsilitis/",
+        "../treatments/etretinate.html",
+        "../treatments/apremilast.html",
+        "../treatments/cyclosporine.html",
+        "../treatments/puva.html",
+        "../treatments/etretinate.html",
+        "../about.html",
+        "https://ppp-community.com/"
+      ],
+      "canonical": [
+        "https://djnaoyaman.github.io/ppp/treatments/biotin-oral.html"
+      ],
+      "icons": [
+        "<link rel=\"icon\" href=\"../favicon.svg?v=2026-09-20\" type=\"image/svg+xml\">",
+        "<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"../apple-touch-icon.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"../icon-192.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"512x512\" href=\"../icon-512.png?v=2026-09-20\">"
+      ],
+      "body_sha256": "5f868c2443d14bc092fb196881e00e26cc66114978a9bca3e93fb4ae0d2333df",
+      "footer_update": "最終更新：2026-10-31（作者情報の整理）"
+    },
+    "treatments/biotin-otc.html": {
+      "ids": [
+        "menu-toggle",
+        "site-nav",
+        "today-date"
+      ],
+      "links": [
+        "../index.html",
+        "../index.html",
+        "../about-ppp.html",
+        "../timeline.html",
+        "../quiz.html",
+        "../categories/cause-removal.html",
+        "../categories/standard-care.html",
+        "../categories/advanced.html",
+        "../categories/kampo.html",
+        "../categories/complementary.html",
+        "../index.html",
+        "../categories/complementary.html",
+        "https://mirai-iryou.com/ppp-4/",
+        "https://medical.nikkeibp.co.jp/leaf/all/di/digital/201503/541018.html",
+        "https://mirai-iryou.com/2018/07/04/ppp_tonsilitis/",
+        "../treatments/gut-care.html",
+        "../treatments/diet-restriction.html",
+        "../treatments/hot-spring.html",
+        "../treatments/acupuncture.html",
+        "../treatments/gut-care.html",
+        "../about.html",
+        "https://ppp-community.com/"
+      ],
+      "canonical": [
+        "https://djnaoyaman.github.io/ppp/treatments/biotin-otc.html"
+      ],
+      "icons": [
+        "<link rel=\"icon\" href=\"../favicon.svg?v=2026-09-20\" type=\"image/svg+xml\">",
+        "<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"../apple-touch-icon.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"../icon-192.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"512x512\" href=\"../icon-512.png?v=2026-09-20\">"
+      ],
+      "body_sha256": "d24cf52c48cbd2bdc032ebab596a34129ebe49da2133b6d33b4ff98ca36f8acb",
+      "footer_update": "最終更新：2026-10-31（作者情報の整理）"
+    },
+    "treatments/acupuncture.html": {
+      "ids": [
+        "menu-toggle",
+        "site-nav",
+        "today-date"
+      ],
+      "links": [
+        "../index.html",
+        "../index.html",
+        "../about-ppp.html",
+        "../timeline.html",
+        "../quiz.html",
+        "../categories/cause-removal.html",
+        "../categories/standard-care.html",
+        "../categories/advanced.html",
+        "../categories/kampo.html",
+        "../categories/complementary.html",
+        "../index.html",
+        "../categories/kampo.html",
+        "https://ir.tdc.ac.jp/irucaa/bitstream/10130/646/1/108_431.pdf",
+        "https://www.da.abbvie.co.jp/ppp/therapies.html",
+        "../treatments/kampo-seinetsu.html",
+        "../treatments/kampo-kuoketsu.html",
+        "../treatments/kampo-jiin.html",
+        "../treatments/kampo-jiin.html",
+        "../treatments/biotin-otc.html",
+        "../about.html",
+        "https://ppp-community.com/"
+      ],
+      "canonical": [
+        "https://djnaoyaman.github.io/ppp/treatments/acupuncture.html"
+      ],
+      "icons": [
+        "<link rel=\"icon\" href=\"../favicon.svg?v=2026-09-20\" type=\"image/svg+xml\">",
+        "<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"../apple-touch-icon.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"../icon-192.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"512x512\" href=\"../icon-512.png?v=2026-09-20\">"
+      ],
+      "body_sha256": "89418f9b59187cf06e11a3d288a71ac760649d0f843f5da7bd49ef94e23ff237",
+      "footer_update": "最終更新：2026-10-31（作者情報の整理）"
+    },
+    "treatments/cyclosporine.html": {
+      "ids": [
+        "menu-toggle",
+        "site-nav",
+        "today-date"
+      ],
+      "links": [
+        "../index.html",
+        "../index.html",
+        "../about-ppp.html",
+        "../timeline.html",
+        "../quiz.html",
+        "../categories/cause-removal.html",
+        "../categories/standard-care.html",
+        "../categories/advanced.html",
+        "../categories/kampo.html",
+        "../categories/complementary.html",
+        "../index.html",
+        "../categories/standard-care.html",
+        "https://www.qlifepro.com/news/20181212/biological-preparation-for-palmoplantar-pustulosis.html",
+        "https://ebinahifu.com/adult/ppp/",
+        "../treatments/oral-steroid.html",
+        "../treatments/nsaids.html",
+        "../treatments/il23-inhibitor.html",
+        "../treatments/apremilast.html",
+        "../treatments/oral-steroid.html",
+        "../about.html",
+        "https://ppp-community.com/"
+      ],
+      "canonical": [
+        "https://djnaoyaman.github.io/ppp/treatments/cyclosporine.html"
+      ],
+      "icons": [
+        "<link rel=\"icon\" href=\"../favicon.svg?v=2026-09-20\" type=\"image/svg+xml\">",
+        "<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"../apple-touch-icon.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"../icon-192.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"512x512\" href=\"../icon-512.png?v=2026-09-20\">"
+      ],
+      "body_sha256": "9ee863d22a6fdffec5b74c1751ca667e363971c1f842d2fdfd9d69223c65dfed",
+      "footer_update": "最終更新：2026-10-31（作者情報の整理）"
+    },
+    "treatments/diet-restriction.html": {
+      "ids": [
+        "menu-toggle",
+        "site-nav",
+        "today-date"
+      ],
+      "links": [
+        "../index.html",
+        "../index.html",
+        "../about-ppp.html",
+        "../timeline.html",
+        "../quiz.html",
+        "../categories/cause-removal.html",
+        "../categories/standard-care.html",
+        "../categories/advanced.html",
+        "../categories/kampo.html",
+        "../categories/complementary.html",
+        "../index.html",
+        "../categories/complementary.html",
+        "https://www.maff.go.jp/j/syouan/keikaku/soukatu/okome_summary/04/functio_nality_03.html",
+        "https://www.da.abbvie.co.jp/ppp/therapies.html",
+        "../treatments/hot-spring.html",
+        "../treatments/stress-management.html",
+        "../treatments/biotin-otc.html",
+        "../treatments/gut-care.html",
+        "../treatments/hot-spring.html",
+        "../about.html",
+        "https://ppp-community.com/"
+      ],
+      "canonical": [
+        "https://djnaoyaman.github.io/ppp/treatments/diet-restriction.html"
+      ],
+      "icons": [
+        "<link rel=\"icon\" href=\"../favicon.svg?v=2026-09-20\" type=\"image/svg+xml\">",
+        "<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"../apple-touch-icon.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"../icon-192.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"512x512\" href=\"../icon-512.png?v=2026-09-20\">"
+      ],
+      "body_sha256": "94e4317885a2c60cf33a3d6619b19c16d0920dba5ef077f2a785b3a5d432080c",
+      "footer_update": "最終更新：2026-10-31（作者情報の整理）"
+    },
+    "treatments/stress-management.html": {
+      "ids": [
+        "menu-toggle",
+        "site-nav",
+        "today-date"
+      ],
+      "links": [
+        "../index.html",
+        "../index.html",
+        "../about-ppp.html",
+        "../timeline.html",
+        "../quiz.html",
+        "../categories/cause-removal.html",
+        "../categories/standard-care.html",
+        "../categories/advanced.html",
+        "../categories/kampo.html",
+        "../categories/complementary.html",
+        "../index.html",
+        "../categories/complementary.html",
+        "https://www.da.abbvie.co.jp/ppp/therapies.html",
+        "https://www.kansennet.jp/ppp/disease/etiology.html",
+        "../treatments/biotin-otc.html",
+        "../treatments/gut-care.html",
+        "../treatments/diet-restriction.html",
+        "../treatments/hot-spring.html",
+        "../about.html",
+        "https://ppp-community.com/"
+      ],
+      "canonical": [
+        "https://djnaoyaman.github.io/ppp/treatments/stress-management.html"
+      ],
+      "icons": [
+        "<link rel=\"icon\" href=\"../favicon.svg?v=2026-09-20\" type=\"image/svg+xml\">",
+        "<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"../apple-touch-icon.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"../icon-192.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"512x512\" href=\"../icon-512.png?v=2026-09-20\">"
+      ],
+      "body_sha256": "82532d966898780c2309751eb8aa21548c89d7adbe3888e99f8c0017567eb388",
+      "footer_update": "最終更新：2026-10-31（作者情報の整理）"
+    },
+    "treatments/gut-care.html": {
+      "ids": [
+        "menu-toggle",
+        "site-nav",
+        "today-date"
+      ],
+      "links": [
+        "../index.html",
+        "../index.html",
+        "../about-ppp.html",
+        "../timeline.html",
+        "../quiz.html",
+        "../categories/cause-removal.html",
+        "../categories/standard-care.html",
+        "../categories/advanced.html",
+        "../categories/kampo.html",
+        "../categories/complementary.html",
+        "../index.html",
+        "../categories/complementary.html",
+        "https://bifidus-fund.jp/keyword/kw091.shtml",
+        "https://www.mdpi.com/2075-4426/16/9/482",
+        "https://www.kansennet.jp/ppp/disease/etiology.html",
+        "../treatments/diet-restriction.html",
+        "../treatments/hot-spring.html",
+        "../treatments/stress-management.html",
+        "../treatments/biotin-otc.html",
+        "../treatments/diet-restriction.html",
+        "../about.html",
+        "https://ppp-community.com/"
+      ],
+      "canonical": [
+        "https://djnaoyaman.github.io/ppp/treatments/gut-care.html"
+      ],
+      "icons": [
+        "<link rel=\"icon\" href=\"../favicon.svg?v=2026-09-20\" type=\"image/svg+xml\">",
+        "<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"../apple-touch-icon.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"../icon-192.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"512x512\" href=\"../icon-512.png?v=2026-09-20\">"
+      ],
+      "body_sha256": "a4125353ea427529cc747f394b71ee74909b09ba43b037c2c86dde812dbb3cb1",
+      "footer_update": "最終更新：2026-10-31（作者情報の整理）"
+    },
+    "treatments/hot-spring.html": {
+      "ids": [
+        "menu-toggle",
+        "site-nav",
+        "today-date"
+      ],
+      "links": [
+        "../index.html",
+        "../index.html",
+        "../about-ppp.html",
+        "../timeline.html",
+        "../quiz.html",
+        "../categories/cause-removal.html",
+        "../categories/standard-care.html",
+        "../categories/advanced.html",
+        "../categories/kampo.html",
+        "../categories/complementary.html",
+        "../index.html",
+        "../categories/complementary.html",
+        "https://www.saiseikai.or.jp/medical/disease/palmoplantar_pustulosis/",
+        "https://www.da.abbvie.co.jp/ppp/therapies.html",
+        "../treatments/stress-management.html",
+        "../treatments/biotin-otc.html",
+        "../treatments/gut-care.html",
+        "../treatments/diet-restriction.html",
+        "../treatments/stress-management.html",
+        "../about.html",
+        "https://ppp-community.com/"
+      ],
+      "canonical": [
+        "https://djnaoyaman.github.io/ppp/treatments/hot-spring.html"
+      ],
+      "icons": [
+        "<link rel=\"icon\" href=\"../favicon.svg?v=2026-09-20\" type=\"image/svg+xml\">",
+        "<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"../apple-touch-icon.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"../icon-192.png?v=2026-09-20\">",
+        "<link rel=\"icon\" type=\"image/png\" sizes=\"512x512\" href=\"../icon-512.png?v=2026-09-20\">"
+      ],
+      "body_sha256": "6ab7e2b4f1695d59a6ceedf7a2a83d7caae59e6bc6ab0a3197a4cca29bb2006a",
+      "footer_update": "最終更新：2026-10-31（作者情報の整理）"
+    }
+  }
+}
