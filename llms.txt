@@ -2,13 +2,13 @@
 
 > 外側から抑えて、内側は全部試す。 掌蹠膿疱症（PPP / palmoplantar pustulosis）の治療法を35項目に整理した個人サイト。まず症状を抑えてQOLを上げ、根治療法は並行して早期に試す、という考え方で書かれている。
 
-企画・編集・デザイン・作成：掌蹠膿疱症患者の会代表。研究者ではなく経験者としての記録であり、医学的アドバイスの代替にはならない。掲載情報は日本皮膚科学会の資料や各種文献を参照して要約したもの。詳しい出典は各ページ末尾に記載。
+企画・編集：宮崎直哉。個人による資料の整理であり、医学的アドバイスの代替にはならない。掲載情報は日本皮膚科学会の資料や各種文献を参照して要約したもの。詳しい出典は各ページ末尾に記載。
 
 ## 主要ページ
 - [掌蹠膿疱症.comのトップページ](https://djnaoyaman.github.io/ppp/index.html): サイトの方針と治療の優先順位の考え方
 - [掌蹠膿疱症は何年で治る？経過の見方](https://djnaoyaman.github.io/ppp/timeline.html): 平均3〜7年とされる経過の見方、著者自身の4か月の経過、よくある質問
 - [掌蹠膿疱症クイズ](https://djnaoyaman.github.io/ppp/quiz.html): 症状・悪化因子・治療法についての20問クイズ、解説と間違いノートつき
-- [このサイトについて](https://djnaoyaman.github.io/ppp/about.html): 運営者プロフィール
+- [このサイトについて](https://djnaoyaman.github.io/ppp/about.html): 制作意図と編集方針
 
 ## 01 増悪因子・原因の追究と除去（根治療法へのアプローチ）
 カテゴリページ: https://djnaoyaman.github.io/ppp/categories/cause-removal.html
@@ -62,3 +62,4 @@
 
 ## Optional
 - [llms-full.txt](https://djnaoyaman.github.io/ppp/llms-full.txt): 全ページの本文をまとめたプレーンテキスト版
+
