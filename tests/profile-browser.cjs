@@ -19,6 +19,13 @@ const assert = require('node:assert/strict');
     scrollTo(0,0);
    });
    await page.waitForTimeout(800);
+   const origin = page.locator('article.essay');
+   for (const text of ['掌蹠膿疱症の患者', '絶望していた時期', 'さまざまなことを試す', '私の場合は4か月で治りました', 'そのときに調べたことをきっかけに', '同じ結果を保証するものではありません', '治療は専門医にご相談ください']) {
+    assert.ok((await origin.innerText()).includes(text), text);
+   }
+   for (const selector of ['meta[name="description"]','meta[property="og:description"]','meta[name="twitter:description"]']) {
+    assert.ok((await page.locator(selector).getAttribute('content')).includes('自身の掌蹠膿疱症の体験'));
+   }
    const link=page.locator('a[href="https://djnaoyaman.github.io/profile.html"]');
    assert.ok(await link.count() >= 1,'central author link');
    await link.first().scrollIntoViewIfNeeded(); assert.ok(await link.first().isVisible(),'author link visible');
