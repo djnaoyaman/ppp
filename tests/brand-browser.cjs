@@ -20,8 +20,11 @@ const {chromium}=require('playwright');const fs=require('node:fs');const assert=
      assert.equal(await page.locator('#site-nav').evaluate(el=>el.scrollHeight>0&&getComputedStyle(el).opacity==='1'),true);
      await menu.click();await page.waitForTimeout(400);assert.equal(await menu.getAttribute('aria-expanded'),'false');
      await menu.click();await page.waitForTimeout(400);assert.equal(await menu.getAttribute('aria-expanded'),'true');
-     await menu.click();
+     if(file==='index.html')await page.screenshot({path:`test-artifacts/brand/home-menu-open-${width}.png`});
+     await menu.click();await page.waitForTimeout(400);assert.equal(await menu.getAttribute('aria-expanded'),'false');
+     assert.equal(await page.locator('#site-nav').evaluate(el=>getComputedStyle(el).pointerEvents),'none');
     }
+    await page.evaluate(()=>scrollTo(0,0));
     if(file==='index.html')await page.screenshot({path:`test-artifacts/brand/home-${width}.png`});
     if(width===390&&file==='treatments/biotin-oral.html')await page.screenshot({path:'test-artifacts/brand/treatment-390.png'});
     results.push({file,width,logoWidth:b.width,overflow});

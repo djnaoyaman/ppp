@@ -22,7 +22,7 @@ for png,card in source.items():
 <desc>{html.escape(card['description'])}</desc>
 <rect width="1200" height="630" fill="#ffffff"/>
 <rect width="14" height="630" fill="#52A3A3"/>
-<g transform="translate(65 12) scale(0.34)">{logo}</g>
+<svg x="72" y="32" width="748" height="214" viewBox="{master.attrib['viewBox']}">{logo}</svg>
 <path d="M72 278H1128" stroke="#d7e9e9" stroke-width="2"/>
 <g font-family="Noto Sans CJK JP, sans-serif">
 <text x="72" y="345" font-size="42" font-weight="700" fill="#182323">{title}</text>

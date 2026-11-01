@@ -16,7 +16,9 @@ class Page(HTMLParser):
 paths=sorted(p.relative_to(ROOT).as_posix() for p in ROOT.rglob('*.html') if 'node_modules' not in p.parts and 'test-artifacts' not in p.parts)
 assert len(paths)==47 and set(paths)==set(contract['pages'])
 assert hashlib.sha256((ROOT/'assets/brand/ppp-wordmark-teal.svg').read_bytes()).hexdigest()==contract['logo_sha256']
-master=(ROOT/'assets/brand/ppp-wordmark-teal.svg').read_text();assert '[しょうせきのうほうしょう.com]' in master
+master=(ROOT/'assets/brand/ppp-wordmark-teal.svg').read_text();assert 'しょうせきのうほうしょう.com' not in master
+for kanji,reading in [('掌','しょう'),('蹠','せき'),('膿','のう'),('疱','ほう'),('症','しょう')]:assert kanji+'＝'+reading in master
+assert ET.fromstring(master).attrib['viewBox']=='100 90 2030 580'
 for rel in paths:
  p=ROOT/rel;s=p.read_text();page=Page(s);old=contract['pages'][rel]
  assert page.canonical==old['canonical'],rel
