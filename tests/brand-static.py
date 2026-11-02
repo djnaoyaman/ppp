@@ -20,7 +20,13 @@ master=(ROOT/'assets/brand/ppp-wordmark-teal.svg').read_text();assert 'しょう
 for kanji,reading in [('掌','しょう'),('蹠','せき'),('膿','のう'),('疱','ほう'),('症','しょう')]:assert kanji+'＝'+reading in master
 assert ET.fromstring(master).attrib['viewBox']=='100 90 2030 580'
 for rel in paths:
- p=ROOT/rel;s=p.read_text();page=Page(s);old=contract['pages'][rel]
+ p=ROOT/rel;s=p.read_text()
+ if rel=='index.html':
+  # Only the independently verified sharing insertions are outside the original brand contract.
+  for block in json.loads((ROOT/'tests/share-insertions.json').read_text()).values():
+   assert s.count(block)==1,'share insertion missing or duplicated'
+   s=s.replace(block,'',1)
+ page=Page(s);old=contract['pages'][rel]
  assert page.canonical==old['canonical'],rel
  assert page.links==old['links'],rel
  assert page.ids==old['ids'],rel

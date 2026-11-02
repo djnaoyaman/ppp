@@ -1,18 +1,19 @@
 name: Author profile browser checks
 on:
   pull_request:
-    paths: ['**.html', 'styles.css', 'sitemap.xml', 'assets/brand/**', 'og/**', 'scripts/**', 'tests/brand*', '404.html', 'tests/crawl-metadata.py', 'profile.html', 'about.html', 'index.html', 'style.css', 'script.js', 'tests/profile-browser.cjs', '.github/workflows/profile-checks.yml']
+    paths: ['**.html', 'styles.css', 'sitemap.xml', 'assets/brand/**', 'og/**', 'scripts/**', 'tests/brand*', 'tests/share*', 'share-page.js', 'share-page.css', '404.html', 'tests/crawl-metadata.py', 'profile.html', 'about.html', 'index.html', 'style.css', 'script.js', 'tests/profile-browser.cjs', '.github/workflows/profile-checks.yml']
 permissions:
   contents: read
 jobs:
   profile:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 8
     steps:
       - uses: actions/checkout@v4
         with:
           persist-credentials: false
       - run: python3 tests/crawl-metadata.py
+      - run: python3 tests/share-static.py
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
@@ -26,6 +27,8 @@ jobs:
           python3 tests/brand-static.py
           node tests/brand-browser.cjs
           node tests/profile-browser.cjs
+          node --test tests/share-unit.cjs
+          node tests/share-browser.cjs
       - uses: actions/upload-artifact@v4
         if: always()
         with:
